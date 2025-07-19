@@ -1,0 +1,1001 @@
+ID_Venda,Data,Produto,Categoria,Quantidade,Preco_Unitario,Total_Venda,Loja,Cidade,Estado
+1,2024-12-29,Tênis,Calçados,4,286.2,1144.8,Loja A,Feira de Santana,BA
+2,2024-07-18,Meia,Acessórios,3,238.31,714.93,Loja A,Uberlândia,MG
+3,2024-07-22,Tênis,Calçados,5,63.69,318.45,Loja A,Belo Horizonte,MG
+4,2024-09-11,Jaqueta,Roupas,3,47.99,143.97,Loja C,Curitiba,PR
+5,2024-11-09,Calça,Roupas,3,262.53,787.59,Loja B,Caxias do Sul,RS
+6,2025-07-02,Camiseta,Roupas,4,60.0,240.0,Loja B,Uberlândia,MG
+7,2025-02-25,Boné,Acessórios,3,25.76,77.28,Loja A,Porto Alegre,RS
+8,2025-07-07,Camiseta,Roupas,2,222.16,444.32,Loja B,Belo Horizonte,MG
+9,2024-10-17,Camiseta,Roupas,2,70.91,141.82,Loja B,Rio de Janeiro,RJ
+10,2025-04-07,Jaqueta,Roupas,5,192.89,964.45,Loja A,Salvador,BA
+11,2025-05-27,Jaqueta,Roupas,2,166.93,333.86,Loja B,Uberlândia,MG
+12,2025-03-29,Meia,Acessórios,4,26.46,105.84,Loja B,Uberlândia,MG
+13,2024-09-02,Calça,Roupas,3,191.32,573.96,Loja C,Santos,SP
+14,2024-10-02,Tênis,Calçados,2,33.07,66.14,Loja B,Londrina,PR
+15,2025-04-17,Boné,Acessórios,4,122.58,490.32,Loja A,Belo Horizonte,MG
+16,2025-03-16,Tênis,Calçados,3,127.09,381.27,Loja A,Campinas,SP
+17,2025-01-04,Jaqueta,Roupas,4,185.88,743.52,Loja B,Belo Horizonte,MG
+18,2025-04-24,Meia,Acessórios,3,260.78,782.34,Loja C,Rio de Janeiro,RJ
+19,2025-04-05,Jaqueta,Roupas,5,146.14,730.7,Loja A,Salvador,BA
+20,2025-05-05,Tênis,Calçados,2,285.69,571.38,Loja B,Niterói,RJ
+21,2024-12-14,Boné,Acessórios,4,177.72,710.88,Loja A,Belo Horizonte,MG
+22,2025-05-19,Calça,Roupas,2,105.29,210.58,Loja B,Feira de Santana,BA
+23,2024-11-24,Meia,Acessórios,5,84.65,423.25,Loja B,São Paulo,SP
+24,2025-04-06,Camiseta,Roupas,4,143.24,572.96,Loja A,Feira de Santana,BA
+25,2025-05-20,Meia,Acessórios,4,158.65,634.6,Loja A,Uberlândia,MG
+26,2024-07-23,Boné,Acessórios,3,274.61,823.83,Loja A,Campinas,SP
+27,2025-05-20,Tênis,Calçados,4,71.03,284.12,Loja B,Caxias do Sul,RS
+28,2025-05-12,Boné,Acessórios,4,107.28,429.12,Loja C,Feira de Santana,BA
+29,2024-11-05,Camiseta,Roupas,2,178.96,357.92,Loja A,Porto Alegre,RS
+30,2024-08-27,Calça,Roupas,5,291.48,1457.4,Loja B,Campinas,SP
+31,2024-09-24,Jaqueta,Roupas,2,145.93,291.86,Loja B,Niterói,RJ
+32,2025-01-18,Camiseta,Roupas,2,270.55,541.1,Loja B,Caxias do Sul,RS
+33,2025-02-06,Camiseta,Roupas,4,32.66,130.64,Loja B,Santos,SP
+34,2024-07-28,Calça,Roupas,5,128.83,644.15,Loja A,Niterói,RJ
+35,2024-08-07,Tênis,Calçados,2,171.11,342.22,Loja A,Caxias do Sul,RS
+36,2025-02-06,Camiseta,Roupas,2,290.27,580.54,Loja C,Salvador,BA
+37,2025-02-06,Boné,Acessórios,4,171.95,687.8,Loja C,Porto Alegre,RS
+38,2024-10-10,Meia,Acessórios,1,102.96,102.96,Loja B,Caxias do Sul,RS
+39,2025-03-16,Meia,Acessórios,5,40.87,204.35,Loja B,Feira de Santana,BA
+40,2025-03-10,Calça,Roupas,1,236.23,236.23,Loja C,Curitiba,PR
+41,2024-11-05,Tênis,Calçados,4,102.18,408.72,Loja A,Feira de Santana,BA
+42,2025-05-08,Boné,Acessórios,3,75.68,227.04,Loja B,Niterói,RJ
+43,2024-10-29,Jaqueta,Roupas,3,241.25,723.75,Loja A,Londrina,PR
+44,2024-07-30,Calça,Roupas,3,40.73,122.19,Loja C,Curitiba,PR
+45,2025-06-13,Calça,Roupas,2,52.44,104.88,Loja B,Salvador,BA
+46,2024-09-03,Calça,Roupas,1,194.52,194.52,Loja C,Salvador,BA
+47,2025-05-17,Tênis,Calçados,2,46.71,93.42,Loja B,Feira de Santana,BA
+48,2024-07-22,Boné,Acessórios,5,224.29,1121.45,Loja B,Salvador,BA
+49,2025-06-02,Tênis,Calçados,3,177.15,531.45,Loja B,Santos,SP
+50,2025-07-09,Tênis,Calçados,3,53.49,160.47,Loja C,Londrina,PR
+51,2024-10-26,Meia,Acessórios,3,233.02,699.06,Loja A,Campinas,SP
+52,2024-09-21,Jaqueta,Roupas,2,86.08,172.16,Loja A,São Paulo,SP
+53,2024-11-20,Camiseta,Roupas,3,166.37,499.11,Loja A,Caxias do Sul,RS
+54,2025-06-08,Jaqueta,Roupas,2,27.12,54.24,Loja C,Santos,SP
+55,2025-03-06,Meia,Acessórios,5,76.48,382.4,Loja B,Santos,SP
+56,2025-03-26,Boné,Acessórios,1,108.02,108.02,Loja B,Rio de Janeiro,RJ
+57,2024-10-23,Boné,Acessórios,4,274.12,1096.48,Loja B,Belo Horizonte,MG
+58,2024-12-27,Jaqueta,Roupas,5,171.16,855.8,Loja A,Niterói,RJ
+59,2025-02-01,Calça,Roupas,5,84.06,420.3,Loja C,Feira de Santana,BA
+60,2025-03-05,Calça,Roupas,3,214.54,643.62,Loja A,Salvador,BA
+61,2025-06-13,Tênis,Calçados,4,280.32,1121.28,Loja A,Porto Alegre,RS
+62,2024-07-29,Camiseta,Roupas,5,102.78,513.9,Loja C,Londrina,PR
+63,2025-02-19,Boné,Acessórios,5,264.01,1320.05,Loja C,Curitiba,PR
+64,2025-02-28,Jaqueta,Roupas,4,81.16,324.64,Loja B,Uberlândia,MG
+65,2024-12-20,Calça,Roupas,4,269.92,1079.68,Loja B,Londrina,PR
+66,2025-04-15,Boné,Acessórios,3,110.82,332.46,Loja B,Porto Alegre,RS
+67,2024-11-23,Calça,Roupas,4,119.76,479.04,Loja C,Salvador,BA
+68,2025-01-27,Camiseta,Roupas,1,96.2,96.2,Loja A,Niterói,RJ
+69,2025-03-19,Jaqueta,Roupas,3,139.59,418.77,Loja A,São Paulo,SP
+70,2025-03-06,Boné,Acessórios,4,118.72,474.88,Loja A,Londrina,PR
+71,2024-11-11,Jaqueta,Roupas,3,21.95,65.85,Loja A,Rio de Janeiro,RJ
+72,2025-04-23,Boné,Acessórios,3,136.88,410.64,Loja B,Porto Alegre,RS
+73,2025-03-14,Tênis,Calçados,5,213.88,1069.4,Loja B,Curitiba,PR
+74,2025-05-12,Calça,Roupas,2,114.53,229.06,Loja A,Uberlândia,MG
+75,2025-03-04,Tênis,Calçados,3,110.5,331.5,Loja A,Porto Alegre,RS
+76,2025-03-18,Meia,Acessórios,1,133.07,133.07,Loja B,Uberlândia,MG
+77,2024-08-05,Camiseta,Roupas,1,91.1,91.1,Loja B,Caxias do Sul,RS
+78,2024-10-20,Meia,Acessórios,4,90.5,362.0,Loja B,São Paulo,SP
+79,2025-05-18,Calça,Roupas,2,219.44,438.88,Loja B,Salvador,BA
+80,2024-08-21,Camiseta,Roupas,5,99.76,498.8,Loja A,Feira de Santana,BA
+81,2025-03-22,Tênis,Calçados,1,94.7,94.7,Loja C,Curitiba,PR
+82,2025-05-23,Calça,Roupas,2,160.75,321.5,Loja A,Londrina,PR
+83,2024-10-20,Tênis,Calçados,5,116.62,583.1,Loja A,Londrina,PR
+84,2025-06-12,Jaqueta,Roupas,1,87.08,87.08,Loja A,Curitiba,PR
+85,2025-04-25,Camiseta,Roupas,2,168.66,337.32,Loja C,Santos,SP
+86,2025-07-05,Calça,Roupas,2,295.98,591.96,Loja A,Rio de Janeiro,RJ
+87,2024-08-22,Calça,Roupas,4,42.64,170.56,Loja A,Londrina,PR
+88,2025-01-13,Boné,Acessórios,3,87.8,263.4,Loja C,Salvador,BA
+89,2025-06-20,Jaqueta,Roupas,5,197.05,985.25,Loja B,Niterói,RJ
+90,2025-06-09,Boné,Acessórios,3,248.6,745.8,Loja B,Feira de Santana,BA
+91,2025-07-16,Jaqueta,Roupas,1,62.2,62.2,Loja A,Niterói,RJ
+92,2024-09-23,Calça,Roupas,3,72.23,216.69,Loja C,Santos,SP
+93,2024-12-30,Tênis,Calçados,5,260.34,1301.7,Loja C,Londrina,PR
+94,2025-06-30,Boné,Acessórios,4,209.72,838.88,Loja A,Curitiba,PR
+95,2025-07-18,Meia,Acessórios,3,219.12,657.36,Loja B,Porto Alegre,RS
+96,2025-01-15,Boné,Acessórios,3,117.63,352.89,Loja B,Uberlândia,MG
+97,2025-04-15,Boné,Acessórios,4,283.35,1133.4,Loja C,Curitiba,PR
+98,2025-06-01,Jaqueta,Roupas,2,254.56,509.12,Loja A,Belo Horizonte,MG
+99,2025-03-06,Jaqueta,Roupas,3,115.5,346.5,Loja C,Porto Alegre,RS
+100,2024-09-16,Jaqueta,Roupas,1,78.54,78.54,Loja A,Caxias do Sul,RS
+101,2024-09-29,Jaqueta,Roupas,2,92.22,184.44,Loja A,São Paulo,SP
+102,2024-11-27,Meia,Acessórios,4,68.99,275.96,Loja A,Curitiba,PR
+103,2025-03-21,Tênis,Calçados,1,164.66,164.66,Loja C,Caxias do Sul,RS
+104,2024-12-08,Meia,Acessórios,1,87.72,87.72,Loja A,Uberlândia,MG
+105,2025-05-05,Meia,Acessórios,4,176.32,705.28,Loja A,São Paulo,SP
+106,2025-06-26,Tênis,Calçados,3,72.84,218.52,Loja A,Caxias do Sul,RS
+107,2024-10-23,Meia,Acessórios,1,117.78,117.78,Loja C,Curitiba,PR
+108,2025-02-18,Tênis,Calçados,3,259.77,779.31,Loja B,Porto Alegre,RS
+109,2025-05-20,Calça,Roupas,1,199.77,199.77,Loja C,Feira de Santana,BA
+110,2025-04-24,Tênis,Calçados,3,281.98,845.94,Loja A,Campinas,SP
+111,2024-12-12,Jaqueta,Roupas,4,271.6,1086.4,Loja A,Belo Horizonte,MG
+112,2024-12-28,Meia,Acessórios,4,182.59,730.36,Loja A,Londrina,PR
+113,2024-07-26,Jaqueta,Roupas,1,205.78,205.78,Loja B,Feira de Santana,BA
+114,2024-11-23,Boné,Acessórios,5,99.5,497.5,Loja B,Feira de Santana,BA
+115,2024-10-11,Tênis,Calçados,2,155.97,311.94,Loja A,Caxias do Sul,RS
+116,2024-12-09,Jaqueta,Roupas,3,202.55,607.65,Loja C,Santos,SP
+117,2024-09-11,Calça,Roupas,1,69.26,69.26,Loja C,Campinas,SP
+118,2024-10-17,Camiseta,Roupas,4,86.43,345.72,Loja B,Porto Alegre,RS
+119,2025-03-31,Boné,Acessórios,5,70.07,350.35,Loja C,São Paulo,SP
+120,2024-09-22,Boné,Acessórios,3,204.13,612.39,Loja B,Rio de Janeiro,RJ
+121,2024-12-10,Jaqueta,Roupas,1,171.91,171.91,Loja A,Rio de Janeiro,RJ
+122,2024-08-24,Jaqueta,Roupas,3,122.96,368.88,Loja A,Rio de Janeiro,RJ
+123,2024-09-27,Tênis,Calçados,5,156.29,781.45,Loja A,Niterói,RJ
+124,2025-03-07,Camiseta,Roupas,3,141.63,424.89,Loja B,São Paulo,SP
+125,2024-12-29,Camiseta,Roupas,5,160.74,803.7,Loja C,Santos,SP
+126,2025-03-31,Camiseta,Roupas,4,207.3,829.2,Loja C,Belo Horizonte,MG
+127,2024-12-19,Meia,Acessórios,1,74.67,74.67,Loja A,Londrina,PR
+128,2024-10-02,Calça,Roupas,5,159.77,798.85,Loja A,Caxias do Sul,RS
+129,2025-01-24,Calça,Roupas,4,26.81,107.24,Loja A,São Paulo,SP
+130,2025-04-26,Boné,Acessórios,1,32.21,32.21,Loja B,Campinas,SP
+131,2025-02-11,Boné,Acessórios,4,283.33,1133.32,Loja B,Feira de Santana,BA
+132,2024-09-29,Meia,Acessórios,5,98.28,491.4,Loja B,Campinas,SP
+133,2025-02-17,Tênis,Calçados,3,229.36,688.08,Loja A,São Paulo,SP
+134,2024-08-06,Camiseta,Roupas,5,279.93,1399.65,Loja C,Rio de Janeiro,RJ
+135,2025-02-11,Calça,Roupas,1,174.77,174.77,Loja B,Uberlândia,MG
+136,2024-08-04,Calça,Roupas,3,294.49,883.47,Loja B,Caxias do Sul,RS
+137,2025-01-01,Calça,Roupas,4,102.45,409.8,Loja B,Salvador,BA
+138,2025-04-26,Jaqueta,Roupas,5,73.46,367.3,Loja C,Porto Alegre,RS
+139,2025-05-23,Calça,Roupas,1,108.74,108.74,Loja B,Curitiba,PR
+140,2024-08-24,Boné,Acessórios,2,175.9,351.8,Loja B,Curitiba,PR
+141,2024-09-30,Calça,Roupas,2,280.4,560.8,Loja A,Curitiba,PR
+142,2025-01-20,Boné,Acessórios,2,192.2,384.4,Loja B,Feira de Santana,BA
+143,2024-12-30,Jaqueta,Roupas,2,91.17,182.34,Loja C,Santos,SP
+144,2025-05-11,Calça,Roupas,2,265.66,531.32,Loja A,Niterói,RJ
+145,2024-11-30,Jaqueta,Roupas,1,257.63,257.63,Loja B,Rio de Janeiro,RJ
+146,2024-07-29,Jaqueta,Roupas,1,216.7,216.7,Loja B,Salvador,BA
+147,2024-11-08,Jaqueta,Roupas,5,103.02,515.1,Loja A,Uberlândia,MG
+148,2025-01-24,Tênis,Calçados,2,246.83,493.66,Loja A,Londrina,PR
+149,2024-10-07,Tênis,Calçados,1,191.22,191.22,Loja A,Belo Horizonte,MG
+150,2024-09-05,Calça,Roupas,4,163.18,652.72,Loja C,Rio de Janeiro,RJ
+151,2025-04-01,Meia,Acessórios,1,195.81,195.81,Loja C,São Paulo,SP
+152,2024-11-28,Calça,Roupas,4,201.99,807.96,Loja B,Uberlândia,MG
+153,2025-04-23,Jaqueta,Roupas,4,268.25,1073.0,Loja A,Salvador,BA
+154,2025-03-17,Meia,Acessórios,4,182.08,728.32,Loja C,Santos,SP
+155,2024-09-29,Camiseta,Roupas,3,150.37,451.11,Loja A,Feira de Santana,BA
+156,2024-09-14,Calça,Roupas,5,254.9,1274.5,Loja B,Caxias do Sul,RS
+157,2025-06-23,Tênis,Calçados,2,28.54,57.08,Loja A,Rio de Janeiro,RJ
+158,2024-10-04,Calça,Roupas,4,30.87,123.48,Loja C,Uberlândia,MG
+159,2024-09-23,Camiseta,Roupas,3,55.58,166.74,Loja C,Belo Horizonte,MG
+160,2024-11-11,Calça,Roupas,1,251.8,251.8,Loja C,Salvador,BA
+161,2025-05-14,Jaqueta,Roupas,4,80.43,321.72,Loja C,São Paulo,SP
+162,2025-04-20,Camiseta,Roupas,5,148.03,740.15,Loja B,Londrina,PR
+163,2024-09-30,Camiseta,Roupas,5,74.43,372.15,Loja A,Campinas,SP
+164,2025-04-08,Camiseta,Roupas,3,198.48,595.44,Loja C,Rio de Janeiro,RJ
+165,2025-02-26,Camiseta,Roupas,4,57.17,228.68,Loja C,São Paulo,SP
+166,2025-04-12,Camiseta,Roupas,2,164.56,329.12,Loja C,Porto Alegre,RS
+167,2025-04-03,Jaqueta,Roupas,3,242.65,727.95,Loja C,Salvador,BA
+168,2024-07-31,Tênis,Calçados,3,142.91,428.73,Loja B,Campinas,SP
+169,2025-05-20,Jaqueta,Roupas,2,27.1,54.2,Loja A,Caxias do Sul,RS
+170,2025-05-18,Camiseta,Roupas,5,42.64,213.2,Loja C,Londrina,PR
+171,2024-10-24,Boné,Acessórios,1,212.78,212.78,Loja A,Caxias do Sul,RS
+172,2025-06-12,Jaqueta,Roupas,1,68.52,68.52,Loja B,Londrina,PR
+173,2024-10-03,Jaqueta,Roupas,1,143.86,143.86,Loja B,Londrina,PR
+174,2024-12-14,Jaqueta,Roupas,1,204.86,204.86,Loja B,Caxias do Sul,RS
+175,2025-04-10,Calça,Roupas,5,198.72,993.6,Loja A,Feira de Santana,BA
+176,2024-09-19,Boné,Acessórios,5,226.61,1133.05,Loja C,Campinas,SP
+177,2025-06-10,Boné,Acessórios,5,191.28,956.4,Loja A,Londrina,PR
+178,2025-03-21,Camiseta,Roupas,3,89.36,268.08,Loja A,Salvador,BA
+179,2025-07-17,Boné,Acessórios,3,232.2,696.6,Loja C,Curitiba,PR
+180,2025-01-19,Jaqueta,Roupas,1,115.73,115.73,Loja A,Uberlândia,MG
+181,2025-07-03,Meia,Acessórios,4,32.88,131.52,Loja C,Salvador,BA
+182,2025-07-04,Meia,Acessórios,1,107.2,107.2,Loja A,Rio de Janeiro,RJ
+183,2024-09-08,Calça,Roupas,4,69.09,276.36,Loja A,Uberlândia,MG
+184,2024-08-14,Tênis,Calçados,2,233.74,467.48,Loja A,Salvador,BA
+185,2024-09-07,Boné,Acessórios,5,152.57,762.85,Loja B,Curitiba,PR
+186,2025-05-22,Tênis,Calçados,1,150.11,150.11,Loja B,Feira de Santana,BA
+187,2025-05-24,Boné,Acessórios,5,131.58,657.9,Loja C,Porto Alegre,RS
+188,2024-10-09,Meia,Acessórios,2,285.76,571.52,Loja B,Niterói,RJ
+189,2024-10-19,Boné,Acessórios,4,32.69,130.76,Loja A,Curitiba,PR
+190,2024-09-28,Tênis,Calçados,2,195.24,390.48,Loja B,Rio de Janeiro,RJ
+191,2024-12-01,Jaqueta,Roupas,2,160.29,320.58,Loja A,Feira de Santana,BA
+192,2025-01-08,Calça,Roupas,5,211.51,1057.55,Loja C,Curitiba,PR
+193,2025-04-21,Calça,Roupas,2,27.42,54.84,Loja B,Niterói,RJ
+194,2025-06-30,Tênis,Calçados,3,244.27,732.81,Loja C,São Paulo,SP
+195,2025-05-09,Camiseta,Roupas,4,128.69,514.76,Loja A,Salvador,BA
+196,2024-10-31,Jaqueta,Roupas,4,55.98,223.92,Loja C,Curitiba,PR
+197,2024-09-30,Jaqueta,Roupas,5,172.77,863.85,Loja C,Porto Alegre,RS
+198,2024-09-24,Meia,Acessórios,5,195.26,976.3,Loja B,Curitiba,PR
+199,2024-12-22,Jaqueta,Roupas,1,289.13,289.13,Loja C,Belo Horizonte,MG
+200,2024-10-27,Boné,Acessórios,2,77.87,155.74,Loja B,Belo Horizonte,MG
+201,2025-05-02,Calça,Roupas,5,39.42,197.1,Loja B,Feira de Santana,BA
+202,2024-12-17,Meia,Acessórios,2,30.91,61.82,Loja B,Porto Alegre,RS
+203,2024-09-06,Boné,Acessórios,2,211.24,422.48,Loja C,Campinas,SP
+204,2025-06-21,Boné,Acessórios,1,203.6,203.6,Loja A,Londrina,PR
+205,2025-02-25,Jaqueta,Roupas,5,256.57,1282.85,Loja C,Salvador,BA
+206,2025-01-25,Boné,Acessórios,2,115.37,230.74,Loja A,Caxias do Sul,RS
+207,2025-02-23,Meia,Acessórios,3,98.92,296.76,Loja C,Rio de Janeiro,RJ
+208,2025-02-28,Jaqueta,Roupas,4,214.01,856.04,Loja C,Salvador,BA
+209,2025-07-18,Boné,Acessórios,2,196.1,392.2,Loja C,Londrina,PR
+210,2024-09-04,Meia,Acessórios,5,30.97,154.85,Loja A,Belo Horizonte,MG
+211,2024-12-06,Meia,Acessórios,1,244.97,244.97,Loja B,São Paulo,SP
+212,2025-02-23,Camiseta,Roupas,1,173.43,173.43,Loja A,Caxias do Sul,RS
+213,2024-09-23,Meia,Acessórios,5,230.17,1150.85,Loja A,Feira de Santana,BA
+214,2024-08-16,Tênis,Calçados,3,297.34,892.02,Loja B,Curitiba,PR
+215,2024-11-01,Boné,Acessórios,4,124.17,496.68,Loja C,Salvador,BA
+216,2024-10-30,Camiseta,Roupas,5,86.81,434.05,Loja A,Niterói,RJ
+217,2025-02-24,Jaqueta,Roupas,5,227.17,1135.85,Loja B,Salvador,BA
+218,2024-11-10,Camiseta,Roupas,3,48.87,146.61,Loja A,Uberlândia,MG
+219,2025-01-11,Camiseta,Roupas,1,169.61,169.61,Loja B,Caxias do Sul,RS
+220,2025-06-21,Jaqueta,Roupas,4,251.41,1005.64,Loja A,Santos,SP
+221,2024-10-12,Boné,Acessórios,5,270.75,1353.75,Loja C,Rio de Janeiro,RJ
+222,2025-04-12,Tênis,Calçados,1,34.98,34.98,Loja C,Niterói,RJ
+223,2025-01-20,Boné,Acessórios,5,273.51,1367.55,Loja B,Porto Alegre,RS
+224,2024-11-22,Jaqueta,Roupas,4,119.37,477.48,Loja B,Caxias do Sul,RS
+225,2025-06-27,Boné,Acessórios,4,286.02,1144.08,Loja B,São Paulo,SP
+226,2025-05-14,Jaqueta,Roupas,4,180.56,722.24,Loja A,Caxias do Sul,RS
+227,2025-06-07,Boné,Acessórios,5,45.68,228.4,Loja C,Porto Alegre,RS
+228,2025-01-25,Boné,Acessórios,4,112.03,448.12,Loja A,Porto Alegre,RS
+229,2024-07-30,Jaqueta,Roupas,3,79.56,238.68,Loja B,Uberlândia,MG
+230,2025-04-20,Camiseta,Roupas,5,241.64,1208.2,Loja C,Salvador,BA
+231,2025-03-23,Calça,Roupas,1,51.77,51.77,Loja A,Rio de Janeiro,RJ
+232,2024-08-17,Camiseta,Roupas,5,158.44,792.2,Loja A,Belo Horizonte,MG
+233,2025-02-28,Camiseta,Roupas,2,143.63,287.26,Loja B,Campinas,SP
+234,2024-09-15,Tênis,Calçados,5,118.26,591.3,Loja B,Londrina,PR
+235,2025-05-12,Meia,Acessórios,2,291.22,582.44,Loja A,Salvador,BA
+236,2025-04-30,Boné,Acessórios,1,233.22,233.22,Loja B,Campinas,SP
+237,2024-07-25,Calça,Roupas,4,262.72,1050.88,Loja C,Porto Alegre,RS
+238,2025-07-13,Calça,Roupas,5,82.32,411.6,Loja A,Feira de Santana,BA
+239,2025-03-23,Calça,Roupas,1,250.12,250.12,Loja C,Caxias do Sul,RS
+240,2024-11-18,Calça,Roupas,2,61.05,122.1,Loja C,Santos,SP
+241,2025-03-26,Tênis,Calçados,5,43.75,218.75,Loja B,Porto Alegre,RS
+242,2025-01-18,Boné,Acessórios,3,182.77,548.31,Loja C,Feira de Santana,BA
+243,2024-10-02,Tênis,Calçados,5,123.78,618.9,Loja A,Santos,SP
+244,2025-03-20,Camiseta,Roupas,4,86.27,345.08,Loja C,Niterói,RJ
+245,2025-04-27,Meia,Acessórios,1,185.73,185.73,Loja C,Feira de Santana,BA
+246,2025-06-05,Meia,Acessórios,4,125.35,501.4,Loja B,Curitiba,PR
+247,2025-01-26,Tênis,Calçados,3,237.6,712.8,Loja A,Feira de Santana,BA
+248,2025-03-08,Tênis,Calçados,3,89.64,268.92,Loja B,Salvador,BA
+249,2024-11-02,Tênis,Calçados,3,51.14,153.42,Loja B,Belo Horizonte,MG
+250,2025-05-03,Calça,Roupas,3,91.03,273.09,Loja B,Feira de Santana,BA
+251,2025-01-07,Meia,Acessórios,2,151.22,302.44,Loja B,Salvador,BA
+252,2024-11-02,Boné,Acessórios,2,227.47,454.94,Loja A,Rio de Janeiro,RJ
+253,2025-07-13,Boné,Acessórios,5,250.38,1251.9,Loja B,Campinas,SP
+254,2025-04-15,Jaqueta,Roupas,1,210.69,210.69,Loja A,Belo Horizonte,MG
+255,2025-06-18,Meia,Acessórios,4,289.41,1157.64,Loja C,Campinas,SP
+256,2024-10-28,Meia,Acessórios,4,100.0,400.0,Loja A,Uberlândia,MG
+257,2025-06-07,Tênis,Calçados,1,82.61,82.61,Loja A,Curitiba,PR
+258,2025-05-09,Jaqueta,Roupas,2,23.4,46.8,Loja C,Campinas,SP
+259,2024-10-18,Calça,Roupas,5,32.08,160.4,Loja A,Londrina,PR
+260,2024-10-07,Calça,Roupas,5,32.15,160.75,Loja B,Salvador,BA
+261,2024-12-23,Boné,Acessórios,5,298.03,1490.15,Loja B,Salvador,BA
+262,2024-09-24,Camiseta,Roupas,5,90.84,454.2,Loja B,Porto Alegre,RS
+263,2024-08-14,Jaqueta,Roupas,3,291.4,874.2,Loja B,Uberlândia,MG
+264,2025-05-26,Meia,Acessórios,2,66.54,133.08,Loja A,Caxias do Sul,RS
+265,2024-10-15,Boné,Acessórios,1,214.81,214.81,Loja C,Londrina,PR
+266,2024-10-30,Jaqueta,Roupas,1,195.72,195.72,Loja A,Uberlândia,MG
+267,2024-09-26,Camiseta,Roupas,3,272.32,816.96,Loja B,Curitiba,PR
+268,2025-04-30,Jaqueta,Roupas,1,276.27,276.27,Loja B,Niterói,RJ
+269,2025-06-13,Meia,Acessórios,2,286.12,572.24,Loja A,Londrina,PR
+270,2024-11-17,Tênis,Calçados,4,49.89,199.56,Loja B,Salvador,BA
+271,2024-11-10,Meia,Acessórios,5,97.67,488.35,Loja B,Salvador,BA
+272,2024-07-26,Meia,Acessórios,4,201.12,804.48,Loja C,Londrina,PR
+273,2024-11-13,Calça,Roupas,2,84.23,168.46,Loja C,Campinas,SP
+274,2025-01-19,Calça,Roupas,4,41.77,167.08,Loja B,Porto Alegre,RS
+275,2025-01-28,Camiseta,Roupas,1,92.79,92.79,Loja C,Feira de Santana,BA
+276,2025-05-20,Calça,Roupas,3,215.49,646.47,Loja C,Campinas,SP
+277,2025-06-11,Tênis,Calçados,1,98.33,98.33,Loja A,Santos,SP
+278,2025-06-04,Tênis,Calçados,5,247.86,1239.3,Loja A,São Paulo,SP
+279,2025-05-04,Camiseta,Roupas,4,95.87,383.48,Loja C,Niterói,RJ
+280,2024-09-25,Camiseta,Roupas,5,275.06,1375.3,Loja C,Uberlândia,MG
+281,2025-07-12,Camiseta,Roupas,5,283.35,1416.75,Loja C,Uberlândia,MG
+282,2025-06-29,Jaqueta,Roupas,3,223.2,669.6,Loja B,Feira de Santana,BA
+283,2025-06-16,Jaqueta,Roupas,1,137.11,137.11,Loja C,Caxias do Sul,RS
+284,2024-10-08,Boné,Acessórios,2,174.44,348.88,Loja B,Salvador,BA
+285,2024-09-17,Tênis,Calçados,5,27.38,136.9,Loja A,Feira de Santana,BA
+286,2025-03-29,Jaqueta,Roupas,1,237.73,237.73,Loja B,Uberlândia,MG
+287,2025-06-08,Camiseta,Roupas,2,296.44,592.88,Loja A,São Paulo,SP
+288,2024-08-10,Calça,Roupas,1,125.49,125.49,Loja C,Belo Horizonte,MG
+289,2024-08-01,Boné,Acessórios,2,126.65,253.3,Loja A,Uberlândia,MG
+290,2024-08-08,Meia,Acessórios,3,255.79,767.37,Loja B,Santos,SP
+291,2025-04-14,Meia,Acessórios,5,37.78,188.9,Loja C,Uberlândia,MG
+292,2024-12-27,Tênis,Calçados,1,136.15,136.15,Loja B,Belo Horizonte,MG
+293,2024-09-13,Boné,Acessórios,1,23.83,23.83,Loja A,Curitiba,PR
+294,2024-08-30,Tênis,Calçados,4,247.61,990.44,Loja C,Salvador,BA
+295,2025-07-04,Camiseta,Roupas,5,299.06,1495.3,Loja B,Porto Alegre,RS
+296,2024-11-19,Jaqueta,Roupas,5,183.84,919.2,Loja B,Londrina,PR
+297,2025-04-20,Tênis,Calçados,5,284.53,1422.65,Loja A,Curitiba,PR
+298,2025-06-29,Meia,Acessórios,2,125.8,251.6,Loja C,Londrina,PR
+299,2024-07-31,Jaqueta,Roupas,5,146.15,730.75,Loja A,Rio de Janeiro,RJ
+300,2025-06-21,Boné,Acessórios,1,287.13,287.13,Loja A,Belo Horizonte,MG
+301,2025-02-01,Boné,Acessórios,5,78.02,390.1,Loja C,Belo Horizonte,MG
+302,2024-08-08,Tênis,Calçados,1,208.08,208.08,Loja C,Salvador,BA
+303,2024-10-19,Boné,Acessórios,2,120.29,240.58,Loja B,Santos,SP
+304,2024-11-30,Meia,Acessórios,2,159.49,318.98,Loja B,Niterói,RJ
+305,2025-03-04,Boné,Acessórios,3,165.65,496.95,Loja A,Porto Alegre,RS
+306,2024-11-28,Meia,Acessórios,4,248.59,994.36,Loja B,Santos,SP
+307,2025-05-07,Jaqueta,Roupas,4,177.06,708.24,Loja C,São Paulo,SP
+308,2025-06-21,Meia,Acessórios,3,132.98,398.94,Loja C,Rio de Janeiro,RJ
+309,2024-12-07,Meia,Acessórios,5,193.69,968.45,Loja A,Salvador,BA
+310,2024-12-03,Jaqueta,Roupas,2,245.41,490.82,Loja B,Campinas,SP
+311,2024-12-17,Camiseta,Roupas,4,294.53,1178.12,Loja B,Uberlândia,MG
+312,2024-08-04,Tênis,Calçados,2,185.18,370.36,Loja C,Curitiba,PR
+313,2024-10-02,Boné,Acessórios,3,45.48,136.44,Loja C,Londrina,PR
+314,2025-05-22,Jaqueta,Roupas,2,117.51,235.02,Loja C,Porto Alegre,RS
+315,2024-12-24,Calça,Roupas,1,239.42,239.42,Loja C,Salvador,BA
+316,2025-05-28,Tênis,Calçados,4,103.43,413.72,Loja B,Campinas,SP
+317,2024-12-18,Calça,Roupas,2,261.46,522.92,Loja C,Caxias do Sul,RS
+318,2025-06-20,Camiseta,Roupas,5,243.01,1215.05,Loja A,Rio de Janeiro,RJ
+319,2025-05-28,Tênis,Calçados,2,279.44,558.88,Loja B,São Paulo,SP
+320,2025-04-01,Meia,Acessórios,2,235.3,470.6,Loja C,Curitiba,PR
+321,2025-02-04,Meia,Acessórios,4,148.56,594.24,Loja B,Curitiba,PR
+322,2024-09-27,Camiseta,Roupas,2,193.83,387.66,Loja C,Feira de Santana,BA
+323,2025-05-23,Jaqueta,Roupas,2,112.05,224.1,Loja A,Santos,SP
+324,2025-05-11,Jaqueta,Roupas,3,182.3,546.9,Loja C,Niterói,RJ
+325,2025-03-18,Jaqueta,Roupas,3,41.24,123.72,Loja A,Porto Alegre,RS
+326,2025-07-07,Tênis,Calçados,1,148.83,148.83,Loja B,Uberlândia,MG
+327,2024-12-08,Meia,Acessórios,3,58.87,176.61,Loja C,Uberlândia,MG
+328,2024-08-02,Boné,Acessórios,4,70.93,283.72,Loja A,Feira de Santana,BA
+329,2025-03-22,Camiseta,Roupas,1,271.1,271.1,Loja A,Santos,SP
+330,2024-09-20,Boné,Acessórios,3,164.27,492.81,Loja C,Santos,SP
+331,2024-09-01,Tênis,Calçados,2,188.54,377.08,Loja B,Rio de Janeiro,RJ
+332,2024-09-22,Jaqueta,Roupas,3,31.44,94.32,Loja B,Curitiba,PR
+333,2025-02-24,Camiseta,Roupas,5,116.62,583.1,Loja B,São Paulo,SP
+334,2025-05-03,Boné,Acessórios,2,69.56,139.12,Loja B,Niterói,RJ
+335,2025-03-05,Calça,Roupas,5,173.64,868.2,Loja B,Belo Horizonte,MG
+336,2025-06-28,Calça,Roupas,5,149.02,745.1,Loja A,Belo Horizonte,MG
+337,2024-08-16,Camiseta,Roupas,2,270.38,540.76,Loja C,Salvador,BA
+338,2025-05-27,Tênis,Calçados,1,160.96,160.96,Loja C,Londrina,PR
+339,2025-07-17,Boné,Acessórios,5,110.04,550.2,Loja A,Niterói,RJ
+340,2025-03-30,Camiseta,Roupas,2,243.83,487.66,Loja B,Niterói,RJ
+341,2024-12-20,Camiseta,Roupas,1,212.58,212.58,Loja C,Londrina,PR
+342,2025-01-25,Tênis,Calçados,3,277.84,833.52,Loja A,Londrina,PR
+343,2025-05-01,Tênis,Calçados,5,20.73,103.65,Loja B,Niterói,RJ
+344,2024-11-17,Tênis,Calçados,4,245.74,982.96,Loja B,Rio de Janeiro,RJ
+345,2024-10-11,Camiseta,Roupas,1,187.24,187.24,Loja C,Londrina,PR
+346,2025-04-03,Meia,Acessórios,4,78.62,314.48,Loja B,Niterói,RJ
+347,2024-07-26,Camiseta,Roupas,2,232.79,465.58,Loja B,Caxias do Sul,RS
+348,2024-08-24,Jaqueta,Roupas,2,229.29,458.58,Loja A,Rio de Janeiro,RJ
+349,2025-06-01,Calça,Roupas,3,90.68,272.04,Loja A,Rio de Janeiro,RJ
+350,2024-11-24,Tênis,Calçados,3,270.66,811.98,Loja B,São Paulo,SP
+351,2025-03-16,Tênis,Calçados,3,168.99,506.97,Loja B,Porto Alegre,RS
+352,2025-04-06,Camiseta,Roupas,5,262.82,1314.1,Loja C,São Paulo,SP
+353,2025-01-22,Calça,Roupas,3,131.21,393.63,Loja B,Rio de Janeiro,RJ
+354,2024-11-29,Boné,Acessórios,1,226.47,226.47,Loja C,Salvador,BA
+355,2025-07-07,Camiseta,Roupas,4,25.62,102.48,Loja A,Caxias do Sul,RS
+356,2025-05-28,Calça,Roupas,1,255.4,255.4,Loja C,Feira de Santana,BA
+357,2025-03-31,Calça,Roupas,2,169.89,339.78,Loja C,Caxias do Sul,RS
+358,2024-12-14,Boné,Acessórios,1,269.35,269.35,Loja A,Niterói,RJ
+359,2025-03-27,Tênis,Calçados,4,152.71,610.84,Loja B,Londrina,PR
+360,2025-07-10,Meia,Acessórios,2,240.97,481.94,Loja C,Santos,SP
+361,2024-08-08,Camiseta,Roupas,5,154.28,771.4,Loja A,Porto Alegre,RS
+362,2025-05-25,Camiseta,Roupas,4,170.39,681.56,Loja B,Feira de Santana,BA
+363,2024-08-19,Boné,Acessórios,2,176.17,352.34,Loja C,Santos,SP
+364,2025-03-16,Tênis,Calçados,1,178.05,178.05,Loja B,Feira de Santana,BA
+365,2025-03-24,Meia,Acessórios,2,99.46,198.92,Loja A,Niterói,RJ
+366,2024-11-18,Tênis,Calçados,4,200.86,803.44,Loja C,Belo Horizonte,MG
+367,2025-06-03,Jaqueta,Roupas,2,88.42,176.84,Loja B,Salvador,BA
+368,2025-03-18,Calça,Roupas,3,296.22,888.66,Loja C,Belo Horizonte,MG
+369,2025-04-15,Meia,Acessórios,5,281.43,1407.15,Loja C,Caxias do Sul,RS
+370,2024-08-14,Jaqueta,Roupas,5,48.5,242.5,Loja B,Londrina,PR
+371,2025-01-18,Calça,Roupas,4,258.23,1032.92,Loja B,Porto Alegre,RS
+372,2025-02-20,Boné,Acessórios,1,42.47,42.47,Loja C,Londrina,PR
+373,2025-05-11,Boné,Acessórios,3,25.11,75.33,Loja A,Curitiba,PR
+374,2024-10-25,Camiseta,Roupas,5,295.07,1475.35,Loja A,Campinas,SP
+375,2025-02-22,Tênis,Calçados,2,181.28,362.56,Loja C,Porto Alegre,RS
+376,2025-06-20,Meia,Acessórios,3,262.34,787.02,Loja C,Rio de Janeiro,RJ
+377,2024-07-20,Camiseta,Roupas,1,157.41,157.41,Loja B,Porto Alegre,RS
+378,2024-12-23,Jaqueta,Roupas,3,249.84,749.52,Loja A,Feira de Santana,BA
+379,2025-01-30,Meia,Acessórios,2,175.89,351.78,Loja C,Belo Horizonte,MG
+380,2024-12-29,Boné,Acessórios,2,98.39,196.78,Loja B,Niterói,RJ
+381,2025-04-15,Meia,Acessórios,4,77.42,309.68,Loja A,Feira de Santana,BA
+382,2024-11-12,Camiseta,Roupas,2,110.63,221.26,Loja C,Rio de Janeiro,RJ
+383,2025-04-13,Meia,Acessórios,3,75.86,227.58,Loja C,Santos,SP
+384,2024-12-26,Meia,Acessórios,4,87.87,351.48,Loja A,Campinas,SP
+385,2025-05-17,Boné,Acessórios,1,190.97,190.97,Loja C,Campinas,SP
+386,2025-04-05,Jaqueta,Roupas,5,161.71,808.55,Loja C,São Paulo,SP
+387,2024-08-19,Camiseta,Roupas,4,109.78,439.12,Loja A,Porto Alegre,RS
+388,2024-08-31,Tênis,Calçados,3,34.51,103.53,Loja B,São Paulo,SP
+389,2025-05-09,Jaqueta,Roupas,2,147.2,294.4,Loja C,Rio de Janeiro,RJ
+390,2025-05-21,Meia,Acessórios,5,37.74,188.7,Loja C,Caxias do Sul,RS
+391,2025-07-11,Calça,Roupas,4,76.48,305.92,Loja A,Caxias do Sul,RS
+392,2025-03-08,Jaqueta,Roupas,2,44.6,89.2,Loja A,Belo Horizonte,MG
+393,2025-01-21,Meia,Acessórios,5,20.76,103.8,Loja C,Curitiba,PR
+394,2025-04-04,Boné,Acessórios,1,186.78,186.78,Loja A,Belo Horizonte,MG
+395,2025-06-10,Boné,Acessórios,3,117.68,353.04,Loja A,Campinas,SP
+396,2025-01-20,Jaqueta,Roupas,1,258.2,258.2,Loja C,Niterói,RJ
+397,2024-11-13,Jaqueta,Roupas,4,290.21,1160.84,Loja C,Santos,SP
+398,2024-09-22,Jaqueta,Roupas,5,224.64,1123.2,Loja C,Londrina,PR
+399,2025-05-27,Meia,Acessórios,1,77.4,77.4,Loja B,Uberlândia,MG
+400,2025-04-08,Calça,Roupas,3,38.62,115.86,Loja C,Feira de Santana,BA
+401,2025-04-29,Tênis,Calçados,4,255.71,1022.84,Loja B,Caxias do Sul,RS
+402,2025-05-26,Camiseta,Roupas,3,242.67,728.01,Loja C,Rio de Janeiro,RJ
+403,2025-05-11,Boné,Acessórios,4,65.82,263.28,Loja A,Porto Alegre,RS
+404,2025-02-04,Calça,Roupas,5,72.19,360.95,Loja A,Uberlândia,MG
+405,2025-03-12,Tênis,Calçados,3,206.26,618.78,Loja A,Salvador,BA
+406,2025-05-27,Calça,Roupas,2,274.2,548.4,Loja B,Rio de Janeiro,RJ
+407,2025-04-10,Calça,Roupas,1,265.62,265.62,Loja B,Belo Horizonte,MG
+408,2024-12-10,Boné,Acessórios,1,211.23,211.23,Loja A,Salvador,BA
+409,2024-12-01,Camiseta,Roupas,3,194.75,584.25,Loja C,Porto Alegre,RS
+410,2024-12-20,Tênis,Calçados,1,229.33,229.33,Loja A,Belo Horizonte,MG
+411,2024-10-04,Meia,Acessórios,1,85.02,85.02,Loja A,Campinas,SP
+412,2025-07-10,Boné,Acessórios,1,129.61,129.61,Loja C,Rio de Janeiro,RJ
+413,2025-01-04,Calça,Roupas,2,172.19,344.38,Loja B,Campinas,SP
+414,2024-12-20,Camiseta,Roupas,3,172.0,516.0,Loja B,Campinas,SP
+415,2024-08-22,Calça,Roupas,3,195.76,587.28,Loja A,Campinas,SP
+416,2024-09-24,Camiseta,Roupas,2,59.0,118.0,Loja A,Londrina,PR
+417,2025-06-19,Camiseta,Roupas,5,158.72,793.6,Loja C,Salvador,BA
+418,2025-01-30,Calça,Roupas,3,240.81,722.43,Loja B,São Paulo,SP
+419,2025-06-20,Camiseta,Roupas,1,107.28,107.28,Loja A,Belo Horizonte,MG
+420,2024-12-23,Calça,Roupas,5,238.0,1190.0,Loja A,Santos,SP
+421,2024-10-13,Tênis,Calçados,1,29.39,29.39,Loja B,Caxias do Sul,RS
+422,2025-07-07,Boné,Acessórios,2,233.49,466.98,Loja A,Salvador,BA
+423,2025-06-27,Boné,Acessórios,3,231.3,693.9,Loja A,Niterói,RJ
+424,2024-10-20,Jaqueta,Roupas,5,50.98,254.9,Loja A,Porto Alegre,RS
+425,2024-11-09,Tênis,Calçados,4,147.96,591.84,Loja A,Campinas,SP
+426,2025-07-18,Camiseta,Roupas,4,131.24,524.96,Loja A,Santos,SP
+427,2024-09-15,Boné,Acessórios,5,171.16,855.8,Loja B,São Paulo,SP
+428,2024-08-08,Meia,Acessórios,5,84.19,420.95,Loja B,Rio de Janeiro,RJ
+429,2025-01-01,Tênis,Calçados,4,236.13,944.52,Loja C,Porto Alegre,RS
+430,2024-09-10,Boné,Acessórios,3,199.52,598.56,Loja A,São Paulo,SP
+431,2025-01-05,Jaqueta,Roupas,3,178.34,535.02,Loja C,Curitiba,PR
+432,2024-07-25,Boné,Acessórios,2,90.5,181.0,Loja B,Caxias do Sul,RS
+433,2025-02-13,Boné,Acessórios,5,251.5,1257.5,Loja C,Feira de Santana,BA
+434,2025-06-25,Meia,Acessórios,2,115.91,231.82,Loja A,Londrina,PR
+435,2025-06-26,Boné,Acessórios,2,285.24,570.48,Loja C,Niterói,RJ
+436,2024-08-15,Jaqueta,Roupas,4,275.32,1101.28,Loja C,Feira de Santana,BA
+437,2024-12-29,Boné,Acessórios,2,191.21,382.42,Loja C,Feira de Santana,BA
+438,2024-11-30,Calça,Roupas,4,186.03,744.12,Loja A,Salvador,BA
+439,2024-10-01,Camiseta,Roupas,4,178.24,712.96,Loja A,São Paulo,SP
+440,2024-12-18,Boné,Acessórios,4,241.22,964.88,Loja B,Caxias do Sul,RS
+441,2025-03-19,Boné,Acessórios,5,218.03,1090.15,Loja A,Rio de Janeiro,RJ
+442,2025-02-06,Camiseta,Roupas,2,235.95,471.9,Loja A,Rio de Janeiro,RJ
+443,2024-07-29,Boné,Acessórios,2,39.3,78.6,Loja A,Porto Alegre,RS
+444,2024-09-25,Boné,Acessórios,3,226.2,678.6,Loja C,Belo Horizonte,MG
+445,2024-07-18,Calça,Roupas,1,279.16,279.16,Loja B,Santos,SP
+446,2024-09-14,Meia,Acessórios,1,51.71,51.71,Loja C,Santos,SP
+447,2024-11-05,Boné,Acessórios,5,66.35,331.75,Loja C,Santos,SP
+448,2024-09-19,Tênis,Calçados,4,54.91,219.64,Loja C,Curitiba,PR
+449,2024-10-21,Boné,Acessórios,1,113.0,113.0,Loja C,Salvador,BA
+450,2024-09-17,Tênis,Calçados,3,185.56,556.68,Loja C,Rio de Janeiro,RJ
+451,2025-06-02,Camiseta,Roupas,5,126.21,631.05,Loja A,São Paulo,SP
+452,2025-06-07,Jaqueta,Roupas,5,113.86,569.3,Loja C,Uberlândia,MG
+453,2024-10-27,Jaqueta,Roupas,4,240.58,962.32,Loja C,Rio de Janeiro,RJ
+454,2025-07-11,Calça,Roupas,2,113.38,226.76,Loja A,Salvador,BA
+455,2025-04-14,Meia,Acessórios,4,170.47,681.88,Loja C,Rio de Janeiro,RJ
+456,2025-01-23,Jaqueta,Roupas,3,278.43,835.29,Loja A,Santos,SP
+457,2025-03-08,Meia,Acessórios,2,154.63,309.26,Loja A,Niterói,RJ
+458,2024-10-16,Calça,Roupas,3,146.62,439.86,Loja A,Salvador,BA
+459,2024-07-24,Tênis,Calçados,3,29.2,87.6,Loja C,Caxias do Sul,RS
+460,2025-05-06,Calça,Roupas,3,59.44,178.32,Loja C,Rio de Janeiro,RJ
+461,2025-05-29,Tênis,Calçados,1,159.54,159.54,Loja B,Rio de Janeiro,RJ
+462,2024-09-23,Calça,Roupas,5,276.16,1380.8,Loja C,São Paulo,SP
+463,2024-10-11,Calça,Roupas,1,238.54,238.54,Loja B,Curitiba,PR
+464,2025-02-11,Jaqueta,Roupas,3,197.03,591.09,Loja B,Rio de Janeiro,RJ
+465,2025-06-02,Boné,Acessórios,4,79.55,318.2,Loja A,Porto Alegre,RS
+466,2024-08-18,Tênis,Calçados,1,69.85,69.85,Loja A,Belo Horizonte,MG
+467,2024-12-03,Boné,Acessórios,4,148.52,594.08,Loja A,Feira de Santana,BA
+468,2025-01-24,Jaqueta,Roupas,4,136.09,544.36,Loja A,Santos,SP
+469,2024-10-29,Tênis,Calçados,4,169.82,679.28,Loja C,Niterói,RJ
+470,2024-10-14,Calça,Roupas,1,103.89,103.89,Loja B,Rio de Janeiro,RJ
+471,2025-01-30,Boné,Acessórios,5,131.25,656.25,Loja C,Campinas,SP
+472,2024-09-21,Meia,Acessórios,3,78.77,236.31,Loja C,Caxias do Sul,RS
+473,2025-05-04,Boné,Acessórios,3,117.83,353.49,Loja B,Uberlândia,MG
+474,2024-09-28,Tênis,Calçados,5,194.99,974.95,Loja C,Rio de Janeiro,RJ
+475,2025-03-20,Camiseta,Roupas,5,152.18,760.9,Loja C,Londrina,PR
+476,2024-10-10,Tênis,Calçados,3,38.4,115.2,Loja C,Uberlândia,MG
+477,2024-10-06,Camiseta,Roupas,3,146.92,440.76,Loja B,Niterói,RJ
+478,2025-05-05,Meia,Acessórios,2,169.65,339.3,Loja B,Rio de Janeiro,RJ
+479,2025-05-11,Camiseta,Roupas,1,132.21,132.21,Loja C,Curitiba,PR
+480,2024-10-10,Boné,Acessórios,3,63.47,190.41,Loja A,Feira de Santana,BA
+481,2025-06-01,Boné,Acessórios,1,113.62,113.62,Loja C,Salvador,BA
+482,2025-06-07,Jaqueta,Roupas,3,124.53,373.59,Loja C,Feira de Santana,BA
+483,2024-07-28,Jaqueta,Roupas,2,271.28,542.56,Loja B,Caxias do Sul,RS
+484,2024-11-24,Camiseta,Roupas,2,134.45,268.9,Loja C,Rio de Janeiro,RJ
+485,2025-02-24,Tênis,Calçados,4,255.14,1020.56,Loja B,Rio de Janeiro,RJ
+486,2025-03-02,Tênis,Calçados,5,134.24,671.2,Loja A,Caxias do Sul,RS
+487,2025-02-26,Tênis,Calçados,1,82.15,82.15,Loja A,Curitiba,PR
+488,2024-11-30,Jaqueta,Roupas,3,161.54,484.62,Loja C,São Paulo,SP
+489,2024-10-27,Calça,Roupas,1,243.98,243.98,Loja C,Salvador,BA
+490,2024-11-28,Boné,Acessórios,3,268.49,805.47,Loja B,Rio de Janeiro,RJ
+491,2025-05-26,Camiseta,Roupas,4,86.69,346.76,Loja A,Porto Alegre,RS
+492,2024-09-15,Calça,Roupas,2,245.49,490.98,Loja A,Caxias do Sul,RS
+493,2024-08-20,Meia,Acessórios,3,289.54,868.62,Loja C,Curitiba,PR
+494,2025-03-01,Jaqueta,Roupas,4,207.06,828.24,Loja A,Campinas,SP
+495,2024-12-16,Tênis,Calçados,5,133.79,668.95,Loja B,Caxias do Sul,RS
+496,2025-04-26,Meia,Acessórios,2,23.64,47.28,Loja A,Rio de Janeiro,RJ
+497,2025-05-27,Calça,Roupas,1,78.21,78.21,Loja C,Salvador,BA
+498,2024-11-10,Jaqueta,Roupas,3,54.38,163.14,Loja A,São Paulo,SP
+499,2024-07-31,Camiseta,Roupas,3,183.25,549.75,Loja B,Feira de Santana,BA
+500,2025-02-14,Camiseta,Roupas,4,217.1,868.4,Loja B,Porto Alegre,RS
+501,2024-10-03,Calça,Roupas,1,248.88,248.88,Loja C,Uberlândia,MG
+502,2024-08-07,Jaqueta,Roupas,4,114.04,456.16,Loja C,Uberlândia,MG
+503,2025-02-17,Boné,Acessórios,2,121.66,243.32,Loja A,Belo Horizonte,MG
+504,2025-05-21,Meia,Acessórios,4,252.58,1010.32,Loja B,Londrina,PR
+505,2025-01-02,Camiseta,Roupas,5,134.64,673.2,Loja A,Campinas,SP
+506,2024-10-27,Meia,Acessórios,1,142.12,142.12,Loja B,Rio de Janeiro,RJ
+507,2024-10-26,Jaqueta,Roupas,4,81.46,325.84,Loja B,Santos,SP
+508,2025-05-15,Tênis,Calçados,2,233.81,467.62,Loja C,Campinas,SP
+509,2025-02-07,Camiseta,Roupas,1,263.17,263.17,Loja B,Curitiba,PR
+510,2025-05-13,Camiseta,Roupas,3,270.47,811.41,Loja C,Niterói,RJ
+511,2025-02-15,Meia,Acessórios,1,155.74,155.74,Loja B,Londrina,PR
+512,2025-06-13,Meia,Acessórios,1,95.23,95.23,Loja C,Feira de Santana,BA
+513,2025-01-22,Boné,Acessórios,2,197.37,394.74,Loja A,Niterói,RJ
+514,2024-10-24,Meia,Acessórios,1,59.02,59.02,Loja B,Niterói,RJ
+515,2024-08-05,Meia,Acessórios,3,138.08,414.24,Loja A,Rio de Janeiro,RJ
+516,2024-12-16,Jaqueta,Roupas,2,167.19,334.38,Loja B,São Paulo,SP
+517,2024-08-30,Camiseta,Roupas,5,213.54,1067.7,Loja C,Niterói,RJ
+518,2025-03-30,Camiseta,Roupas,5,25.15,125.75,Loja B,Niterói,RJ
+519,2025-01-28,Meia,Acessórios,2,168.31,336.62,Loja B,Rio de Janeiro,RJ
+520,2025-01-16,Boné,Acessórios,2,181.42,362.84,Loja A,Curitiba,PR
+521,2025-04-24,Tênis,Calçados,2,175.17,350.34,Loja A,Rio de Janeiro,RJ
+522,2024-09-18,Camiseta,Roupas,1,159.29,159.29,Loja B,Uberlândia,MG
+523,2025-05-30,Meia,Acessórios,4,77.8,311.2,Loja A,Caxias do Sul,RS
+524,2024-10-22,Calça,Roupas,2,59.21,118.42,Loja A,Feira de Santana,BA
+525,2024-11-29,Boné,Acessórios,3,272.01,816.03,Loja C,Uberlândia,MG
+526,2024-12-31,Meia,Acessórios,3,187.28,561.84,Loja C,Londrina,PR
+527,2024-08-06,Boné,Acessórios,4,197.27,789.08,Loja C,Caxias do Sul,RS
+528,2025-05-31,Camiseta,Roupas,5,69.1,345.5,Loja C,São Paulo,SP
+529,2024-10-07,Meia,Acessórios,5,254.67,1273.35,Loja C,Uberlândia,MG
+530,2025-03-22,Boné,Acessórios,5,127.28,636.4,Loja B,Caxias do Sul,RS
+531,2024-12-26,Meia,Acessórios,2,138.17,276.34,Loja B,Belo Horizonte,MG
+532,2025-07-18,Camiseta,Roupas,2,66.56,133.12,Loja B,Londrina,PR
+533,2024-12-25,Meia,Acessórios,3,71.62,214.86,Loja B,Porto Alegre,RS
+534,2025-05-23,Camiseta,Roupas,5,188.88,944.4,Loja A,Uberlândia,MG
+535,2024-07-29,Jaqueta,Roupas,2,39.11,78.22,Loja B,Londrina,PR
+536,2024-08-01,Calça,Roupas,3,100.83,302.49,Loja B,Curitiba,PR
+537,2024-11-05,Tênis,Calçados,4,221.33,885.32,Loja C,Feira de Santana,BA
+538,2025-06-03,Jaqueta,Roupas,3,285.81,857.43,Loja B,Rio de Janeiro,RJ
+539,2024-11-10,Camiseta,Roupas,5,155.45,777.25,Loja C,Curitiba,PR
+540,2024-12-17,Calça,Roupas,2,28.73,57.46,Loja A,Campinas,SP
+541,2025-02-24,Tênis,Calçados,4,65.36,261.44,Loja C,Uberlândia,MG
+542,2025-04-23,Jaqueta,Roupas,4,34.4,137.6,Loja A,Salvador,BA
+543,2024-09-03,Boné,Acessórios,3,187.12,561.36,Loja C,Londrina,PR
+544,2024-11-06,Calça,Roupas,2,194.53,389.06,Loja A,São Paulo,SP
+545,2025-05-19,Boné,Acessórios,2,49.85,99.7,Loja A,Campinas,SP
+546,2025-04-27,Jaqueta,Roupas,1,118.43,118.43,Loja B,São Paulo,SP
+547,2024-11-28,Calça,Roupas,1,158.74,158.74,Loja B,Santos,SP
+548,2025-06-01,Meia,Acessórios,3,187.52,562.56,Loja C,Feira de Santana,BA
+549,2025-01-17,Calça,Roupas,1,88.99,88.99,Loja B,Feira de Santana,BA
+550,2025-03-23,Tênis,Calçados,3,41.77,125.31,Loja B,Curitiba,PR
+551,2025-03-24,Meia,Acessórios,4,214.52,858.08,Loja A,Salvador,BA
+552,2025-07-12,Jaqueta,Roupas,2,48.87,97.74,Loja B,Curitiba,PR
+553,2024-08-15,Tênis,Calçados,5,45.64,228.2,Loja B,Rio de Janeiro,RJ
+554,2025-01-14,Meia,Acessórios,3,289.39,868.17,Loja B,Santos,SP
+555,2024-08-13,Tênis,Calçados,1,286.07,286.07,Loja A,Salvador,BA
+556,2024-10-12,Meia,Acessórios,1,71.84,71.84,Loja A,Niterói,RJ
+557,2025-05-08,Jaqueta,Roupas,3,225.02,675.06,Loja B,Curitiba,PR
+558,2024-10-31,Jaqueta,Roupas,5,232.53,1162.65,Loja C,Londrina,PR
+559,2024-09-02,Calça,Roupas,5,213.84,1069.2,Loja C,Campinas,SP
+560,2025-02-11,Boné,Acessórios,1,272.94,272.94,Loja B,São Paulo,SP
+561,2025-02-09,Tênis,Calçados,4,81.94,327.76,Loja A,São Paulo,SP
+562,2025-05-11,Tênis,Calçados,2,34.45,68.9,Loja A,São Paulo,SP
+563,2024-10-17,Camiseta,Roupas,2,31.04,62.08,Loja A,Feira de Santana,BA
+564,2024-10-19,Jaqueta,Roupas,2,184.71,369.42,Loja A,Feira de Santana,BA
+565,2024-09-03,Calça,Roupas,1,70.56,70.56,Loja A,Niterói,RJ
+566,2025-04-12,Meia,Acessórios,5,152.5,762.5,Loja C,Salvador,BA
+567,2024-08-06,Boné,Acessórios,5,224.69,1123.45,Loja C,Rio de Janeiro,RJ
+568,2025-04-24,Tênis,Calçados,3,278.83,836.49,Loja B,Curitiba,PR
+569,2024-10-13,Jaqueta,Roupas,2,138.09,276.18,Loja B,Rio de Janeiro,RJ
+570,2025-01-13,Calça,Roupas,5,152.78,763.9,Loja B,São Paulo,SP
+571,2024-11-01,Tênis,Calçados,4,256.47,1025.88,Loja B,Belo Horizonte,MG
+572,2025-02-13,Camiseta,Roupas,2,166.28,332.56,Loja B,Rio de Janeiro,RJ
+573,2024-11-27,Jaqueta,Roupas,1,202.05,202.05,Loja A,Santos,SP
+574,2024-07-24,Jaqueta,Roupas,3,176.99,530.97,Loja B,São Paulo,SP
+575,2025-01-01,Tênis,Calçados,5,41.55,207.75,Loja A,Belo Horizonte,MG
+576,2024-11-18,Calça,Roupas,5,168.47,842.35,Loja C,Londrina,PR
+577,2025-01-12,Jaqueta,Roupas,2,222.93,445.86,Loja B,Rio de Janeiro,RJ
+578,2025-06-19,Meia,Acessórios,4,180.28,721.12,Loja C,Belo Horizonte,MG
+579,2024-10-13,Jaqueta,Roupas,1,170.75,170.75,Loja B,Porto Alegre,RS
+580,2025-03-23,Jaqueta,Roupas,1,226.6,226.6,Loja A,Niterói,RJ
+581,2025-05-22,Boné,Acessórios,1,268.07,268.07,Loja B,Campinas,SP
+582,2024-12-21,Jaqueta,Roupas,2,265.47,530.94,Loja A,São Paulo,SP
+583,2024-07-27,Jaqueta,Roupas,2,26.83,53.66,Loja C,Niterói,RJ
+584,2025-04-17,Jaqueta,Roupas,2,297.3,594.6,Loja C,Feira de Santana,BA
+585,2024-11-18,Tênis,Calçados,3,264.92,794.76,Loja C,Santos,SP
+586,2025-02-23,Calça,Roupas,5,127.51,637.55,Loja C,Londrina,PR
+587,2024-07-25,Boné,Acessórios,3,39.61,118.83,Loja A,Londrina,PR
+588,2024-09-03,Jaqueta,Roupas,4,34.75,139.0,Loja C,Rio de Janeiro,RJ
+589,2025-01-15,Tênis,Calçados,1,132.54,132.54,Loja C,Belo Horizonte,MG
+590,2025-06-06,Camiseta,Roupas,5,154.34,771.7,Loja B,Porto Alegre,RS
+591,2024-10-14,Boné,Acessórios,4,295.54,1182.16,Loja A,Curitiba,PR
+592,2024-11-25,Tênis,Calçados,2,45.68,91.36,Loja B,Santos,SP
+593,2025-02-09,Boné,Acessórios,4,226.52,906.08,Loja B,Uberlândia,MG
+594,2024-11-15,Meia,Acessórios,1,50.93,50.93,Loja C,Curitiba,PR
+595,2025-04-28,Camiseta,Roupas,2,102.97,205.94,Loja C,Niterói,RJ
+596,2024-07-21,Boné,Acessórios,5,31.79,158.95,Loja B,Santos,SP
+597,2024-12-08,Meia,Acessórios,1,274.89,274.89,Loja C,Niterói,RJ
+598,2025-04-26,Meia,Acessórios,1,50.65,50.65,Loja A,Niterói,RJ
+599,2024-10-28,Camiseta,Roupas,1,210.3,210.3,Loja C,São Paulo,SP
+600,2025-05-03,Jaqueta,Roupas,4,287.8,1151.2,Loja C,Belo Horizonte,MG
+601,2025-05-21,Boné,Acessórios,5,240.18,1200.9,Loja A,Londrina,PR
+602,2024-07-24,Meia,Acessórios,3,184.8,554.4,Loja A,Salvador,BA
+603,2024-11-06,Meia,Acessórios,3,273.04,819.12,Loja A,Curitiba,PR
+604,2025-03-13,Meia,Acessórios,2,66.77,133.54,Loja A,Niterói,RJ
+605,2025-07-16,Jaqueta,Roupas,4,38.2,152.8,Loja A,São Paulo,SP
+606,2024-10-12,Camiseta,Roupas,4,254.59,1018.36,Loja A,Londrina,PR
+607,2025-07-03,Boné,Acessórios,5,252.58,1262.9,Loja B,Belo Horizonte,MG
+608,2025-07-12,Boné,Acessórios,2,33.14,66.28,Loja B,Feira de Santana,BA
+609,2025-02-23,Calça,Roupas,1,81.74,81.74,Loja C,Curitiba,PR
+610,2025-07-14,Camiseta,Roupas,1,288.04,288.04,Loja B,Salvador,BA
+611,2025-04-05,Jaqueta,Roupas,5,36.2,181.0,Loja B,Belo Horizonte,MG
+612,2024-11-06,Jaqueta,Roupas,1,165.11,165.11,Loja A,Uberlândia,MG
+613,2025-05-16,Boné,Acessórios,4,298.57,1194.28,Loja B,Belo Horizonte,MG
+614,2025-07-15,Camiseta,Roupas,5,92.87,464.35,Loja C,Feira de Santana,BA
+615,2024-08-09,Jaqueta,Roupas,3,232.31,696.93,Loja A,Belo Horizonte,MG
+616,2024-11-19,Boné,Acessórios,1,63.09,63.09,Loja C,Feira de Santana,BA
+617,2025-06-04,Tênis,Calçados,3,82.84,248.52,Loja C,Campinas,SP
+618,2024-11-19,Tênis,Calçados,5,170.35,851.75,Loja A,Belo Horizonte,MG
+619,2025-06-21,Camiseta,Roupas,1,270.58,270.58,Loja C,Porto Alegre,RS
+620,2025-05-12,Tênis,Calçados,5,45.62,228.1,Loja B,Niterói,RJ
+621,2024-10-18,Camiseta,Roupas,1,129.53,129.53,Loja C,Belo Horizonte,MG
+622,2025-04-04,Meia,Acessórios,3,56.26,168.78,Loja A,Caxias do Sul,RS
+623,2025-07-03,Meia,Acessórios,1,32.43,32.43,Loja C,Feira de Santana,BA
+624,2025-04-22,Meia,Acessórios,2,261.4,522.8,Loja A,São Paulo,SP
+625,2025-04-16,Boné,Acessórios,1,112.13,112.13,Loja B,Uberlândia,MG
+626,2024-12-30,Calça,Roupas,1,174.24,174.24,Loja A,Salvador,BA
+627,2024-09-11,Jaqueta,Roupas,3,98.79,296.37,Loja B,Curitiba,PR
+628,2025-03-31,Calça,Roupas,4,124.35,497.4,Loja C,Belo Horizonte,MG
+629,2025-04-04,Jaqueta,Roupas,3,222.56,667.68,Loja B,Caxias do Sul,RS
+630,2025-07-16,Tênis,Calçados,2,169.13,338.26,Loja C,Rio de Janeiro,RJ
+631,2025-01-10,Boné,Acessórios,5,81.65,408.25,Loja A,Uberlândia,MG
+632,2024-09-25,Jaqueta,Roupas,5,270.45,1352.25,Loja B,Curitiba,PR
+633,2024-08-10,Tênis,Calçados,5,258.34,1291.7,Loja A,Londrina,PR
+634,2025-04-10,Meia,Acessórios,5,154.56,772.8,Loja A,Caxias do Sul,RS
+635,2025-03-27,Tênis,Calçados,5,273.82,1369.1,Loja B,Salvador,BA
+636,2025-05-04,Tênis,Calçados,3,117.39,352.17,Loja A,Salvador,BA
+637,2024-08-12,Jaqueta,Roupas,2,172.26,344.52,Loja B,Caxias do Sul,RS
+638,2024-12-13,Tênis,Calçados,5,94.77,473.85,Loja C,Campinas,SP
+639,2024-10-07,Jaqueta,Roupas,3,263.09,789.27,Loja C,Rio de Janeiro,RJ
+640,2024-11-27,Camiseta,Roupas,4,258.16,1032.64,Loja B,Santos,SP
+641,2024-07-27,Tênis,Calçados,3,64.91,194.73,Loja B,Londrina,PR
+642,2025-02-17,Jaqueta,Roupas,5,254.36,1271.8,Loja C,Niterói,RJ
+643,2025-03-06,Camiseta,Roupas,1,280.43,280.43,Loja B,Caxias do Sul,RS
+644,2025-02-22,Boné,Acessórios,4,193.21,772.84,Loja A,São Paulo,SP
+645,2024-10-02,Meia,Acessórios,4,64.41,257.64,Loja B,Niterói,RJ
+646,2024-12-25,Jaqueta,Roupas,3,289.17,867.51,Loja B,Porto Alegre,RS
+647,2025-03-11,Meia,Acessórios,1,28.19,28.19,Loja C,Campinas,SP
+648,2024-12-20,Camiseta,Roupas,2,56.08,112.16,Loja A,Caxias do Sul,RS
+649,2024-10-13,Meia,Acessórios,3,84.02,252.06,Loja A,Campinas,SP
+650,2025-01-18,Jaqueta,Roupas,2,249.03,498.06,Loja B,Niterói,RJ
+651,2025-03-28,Calça,Roupas,5,162.09,810.45,Loja B,Belo Horizonte,MG
+652,2024-07-27,Camiseta,Roupas,2,100.37,200.74,Loja A,Salvador,BA
+653,2025-01-26,Jaqueta,Roupas,3,294.73,884.19,Loja A,Campinas,SP
+654,2025-04-16,Boné,Acessórios,1,52.44,52.44,Loja C,Salvador,BA
+655,2024-12-17,Camiseta,Roupas,2,197.52,395.04,Loja C,Belo Horizonte,MG
+656,2024-08-19,Jaqueta,Roupas,5,238.36,1191.8,Loja C,Porto Alegre,RS
+657,2025-06-27,Meia,Acessórios,3,233.09,699.27,Loja B,Curitiba,PR
+658,2024-12-13,Boné,Acessórios,2,141.03,282.06,Loja C,Rio de Janeiro,RJ
+659,2025-01-31,Meia,Acessórios,2,115.72,231.44,Loja C,Belo Horizonte,MG
+660,2025-02-24,Tênis,Calçados,4,70.26,281.04,Loja A,Porto Alegre,RS
+661,2025-04-20,Meia,Acessórios,5,48.7,243.5,Loja C,Niterói,RJ
+662,2025-04-14,Camiseta,Roupas,4,68.65,274.6,Loja B,Campinas,SP
+663,2025-04-03,Tênis,Calçados,4,38.99,155.96,Loja B,Niterói,RJ
+664,2024-08-04,Meia,Acessórios,3,66.59,199.77,Loja A,Santos,SP
+665,2024-11-08,Boné,Acessórios,4,38.86,155.44,Loja A,Londrina,PR
+666,2025-06-25,Boné,Acessórios,2,152.6,305.2,Loja A,Campinas,SP
+667,2025-01-10,Calça,Roupas,2,40.91,81.82,Loja B,Londrina,PR
+668,2025-04-12,Boné,Acessórios,2,264.03,528.06,Loja B,Caxias do Sul,RS
+669,2025-06-03,Jaqueta,Roupas,5,144.87,724.35,Loja C,Niterói,RJ
+670,2025-04-27,Meia,Acessórios,3,56.42,169.26,Loja A,Feira de Santana,BA
+671,2025-06-23,Tênis,Calçados,5,127.41,637.05,Loja C,Feira de Santana,BA
+672,2024-12-19,Calça,Roupas,5,26.19,130.95,Loja C,Feira de Santana,BA
+673,2025-05-20,Boné,Acessórios,3,90.7,272.1,Loja C,Curitiba,PR
+674,2025-02-12,Calça,Roupas,2,64.5,129.0,Loja C,Santos,SP
+675,2024-10-16,Calça,Roupas,2,299.19,598.38,Loja A,Niterói,RJ
+676,2025-06-10,Jaqueta,Roupas,1,48.61,48.61,Loja B,Porto Alegre,RS
+677,2025-03-09,Jaqueta,Roupas,1,65.81,65.81,Loja A,Santos,SP
+678,2025-03-08,Jaqueta,Roupas,5,214.23,1071.15,Loja A,Niterói,RJ
+679,2024-09-11,Jaqueta,Roupas,4,255.19,1020.76,Loja A,Santos,SP
+680,2024-09-21,Calça,Roupas,4,203.26,813.04,Loja B,Caxias do Sul,RS
+681,2025-01-23,Meia,Acessórios,3,263.06,789.18,Loja B,Niterói,RJ
+682,2025-03-16,Meia,Acessórios,4,28.76,115.04,Loja B,Campinas,SP
+683,2024-11-11,Camiseta,Roupas,5,284.21,1421.05,Loja C,Niterói,RJ
+684,2025-05-11,Calça,Roupas,5,198.79,993.95,Loja A,São Paulo,SP
+685,2024-09-26,Calça,Roupas,3,96.78,290.34,Loja C,Belo Horizonte,MG
+686,2024-09-19,Meia,Acessórios,3,107.35,322.05,Loja B,Porto Alegre,RS
+687,2025-01-27,Jaqueta,Roupas,2,270.35,540.7,Loja A,Feira de Santana,BA
+688,2025-06-13,Calça,Roupas,2,79.67,159.34,Loja B,São Paulo,SP
+689,2024-11-09,Tênis,Calçados,1,202.47,202.47,Loja A,Campinas,SP
+690,2024-07-23,Camiseta,Roupas,4,177.57,710.28,Loja B,Curitiba,PR
+691,2024-08-12,Camiseta,Roupas,4,152.5,610.0,Loja A,Londrina,PR
+692,2024-08-22,Camiseta,Roupas,4,71.95,287.8,Loja C,Porto Alegre,RS
+693,2025-02-18,Camiseta,Roupas,1,45.53,45.53,Loja A,Curitiba,PR
+694,2024-08-20,Camiseta,Roupas,3,256.54,769.62,Loja A,Feira de Santana,BA
+695,2025-01-12,Camiseta,Roupas,4,25.0,100.0,Loja B,Porto Alegre,RS
+696,2024-10-01,Boné,Acessórios,5,56.75,283.75,Loja C,Uberlândia,MG
+697,2025-04-19,Calça,Roupas,5,275.31,1376.55,Loja C,Caxias do Sul,RS
+698,2025-04-03,Meia,Acessórios,2,192.66,385.32,Loja A,Feira de Santana,BA
+699,2024-09-12,Camiseta,Roupas,1,20.34,20.34,Loja A,Niterói,RJ
+700,2024-08-11,Boné,Acessórios,1,190.05,190.05,Loja B,Belo Horizonte,MG
+701,2024-11-09,Boné,Acessórios,4,140.49,561.96,Loja B,Belo Horizonte,MG
+702,2024-09-23,Meia,Acessórios,1,65.03,65.03,Loja A,São Paulo,SP
+703,2024-12-20,Boné,Acessórios,5,95.32,476.6,Loja A,Feira de Santana,BA
+704,2025-01-20,Camiseta,Roupas,3,295.62,886.86,Loja B,Niterói,RJ
+705,2024-09-26,Jaqueta,Roupas,1,23.25,23.25,Loja C,Salvador,BA
+706,2025-05-02,Boné,Acessórios,2,210.53,421.06,Loja A,Niterói,RJ
+707,2024-07-28,Boné,Acessórios,2,154.38,308.76,Loja B,Belo Horizonte,MG
+708,2025-06-18,Meia,Acessórios,3,214.59,643.77,Loja B,Curitiba,PR
+709,2024-12-12,Calça,Roupas,1,286.74,286.74,Loja C,Londrina,PR
+710,2024-11-28,Jaqueta,Roupas,1,31.09,31.09,Loja B,Niterói,RJ
+711,2024-11-01,Jaqueta,Roupas,3,49.38,148.14,Loja A,Salvador,BA
+712,2025-04-18,Jaqueta,Roupas,1,48.78,48.78,Loja B,Curitiba,PR
+713,2024-08-20,Tênis,Calçados,4,216.69,866.76,Loja C,Rio de Janeiro,RJ
+714,2025-01-20,Calça,Roupas,2,237.23,474.46,Loja B,Londrina,PR
+715,2025-01-17,Camiseta,Roupas,2,111.41,222.82,Loja C,Niterói,RJ
+716,2025-07-12,Meia,Acessórios,2,169.59,339.18,Loja C,Feira de Santana,BA
+717,2025-02-27,Meia,Acessórios,1,118.18,118.18,Loja C,Rio de Janeiro,RJ
+718,2025-05-15,Camiseta,Roupas,1,250.86,250.86,Loja C,Belo Horizonte,MG
+719,2024-12-19,Meia,Acessórios,2,131.14,262.28,Loja B,Uberlândia,MG
+720,2024-10-16,Tênis,Calçados,2,293.69,587.38,Loja B,Curitiba,PR
+721,2025-02-28,Tênis,Calçados,2,213.05,426.1,Loja B,Salvador,BA
+722,2024-12-31,Camiseta,Roupas,2,250.0,500.0,Loja C,Campinas,SP
+723,2024-10-28,Meia,Acessórios,2,66.9,133.8,Loja A,Feira de Santana,BA
+724,2025-01-06,Jaqueta,Roupas,1,286.43,286.43,Loja B,Uberlândia,MG
+725,2024-11-04,Tênis,Calçados,5,217.81,1089.05,Loja A,Londrina,PR
+726,2025-07-10,Meia,Acessórios,1,282.14,282.14,Loja B,Niterói,RJ
+727,2025-04-20,Meia,Acessórios,1,218.54,218.54,Loja A,Rio de Janeiro,RJ
+728,2025-01-16,Meia,Acessórios,2,195.09,390.18,Loja A,Niterói,RJ
+729,2025-05-04,Tênis,Calçados,4,115.05,460.2,Loja C,Feira de Santana,BA
+730,2024-08-10,Meia,Acessórios,3,155.63,466.89,Loja A,Caxias do Sul,RS
+731,2024-11-09,Tênis,Calçados,3,270.55,811.65,Loja B,Uberlândia,MG
+732,2024-11-27,Camiseta,Roupas,4,187.29,749.16,Loja A,São Paulo,SP
+733,2025-03-08,Boné,Acessórios,2,154.65,309.3,Loja B,Niterói,RJ
+734,2024-11-16,Tênis,Calçados,1,65.92,65.92,Loja A,Curitiba,PR
+735,2025-02-16,Meia,Acessórios,3,222.95,668.85,Loja A,Uberlândia,MG
+736,2025-02-25,Meia,Acessórios,4,89.19,356.76,Loja C,Niterói,RJ
+737,2025-01-17,Camiseta,Roupas,5,154.2,771.0,Loja B,Londrina,PR
+738,2024-08-13,Tênis,Calçados,3,81.38,244.14,Loja B,Londrina,PR
+739,2025-01-12,Camiseta,Roupas,4,228.4,913.6,Loja A,Caxias do Sul,RS
+740,2024-07-21,Jaqueta,Roupas,5,241.12,1205.6,Loja C,Caxias do Sul,RS
+741,2025-03-21,Meia,Acessórios,3,65.27,195.81,Loja A,Belo Horizonte,MG
+742,2025-07-08,Jaqueta,Roupas,2,202.91,405.82,Loja B,Feira de Santana,BA
+743,2024-10-28,Tênis,Calçados,5,298.97,1494.85,Loja C,Caxias do Sul,RS
+744,2025-04-30,Meia,Acessórios,1,158.12,158.12,Loja B,Santos,SP
+745,2025-05-26,Boné,Acessórios,4,75.87,303.48,Loja C,Porto Alegre,RS
+746,2024-08-25,Tênis,Calçados,3,81.76,245.28,Loja B,Rio de Janeiro,RJ
+747,2025-07-08,Meia,Acessórios,1,255.33,255.33,Loja B,Caxias do Sul,RS
+748,2024-11-03,Jaqueta,Roupas,1,263.12,263.12,Loja B,São Paulo,SP
+749,2024-11-27,Tênis,Calçados,2,227.96,455.92,Loja B,Caxias do Sul,RS
+750,2025-03-18,Tênis,Calçados,4,196.05,784.2,Loja B,Londrina,PR
+751,2025-06-18,Tênis,Calçados,4,123.89,495.56,Loja C,Feira de Santana,BA
+752,2024-12-25,Meia,Acessórios,4,161.36,645.44,Loja B,Rio de Janeiro,RJ
+753,2025-05-16,Boné,Acessórios,2,262.77,525.54,Loja B,Rio de Janeiro,RJ
+754,2025-07-08,Calça,Roupas,1,142.81,142.81,Loja C,Feira de Santana,BA
+755,2024-08-06,Jaqueta,Roupas,5,130.74,653.7,Loja A,Curitiba,PR
+756,2025-03-03,Tênis,Calçados,4,264.56,1058.24,Loja B,Caxias do Sul,RS
+757,2025-01-18,Boné,Acessórios,2,242.03,484.06,Loja C,Londrina,PR
+758,2024-08-18,Boné,Acessórios,2,297.8,595.6,Loja A,Belo Horizonte,MG
+759,2024-11-03,Calça,Roupas,2,275.46,550.92,Loja B,Salvador,BA
+760,2025-01-24,Camiseta,Roupas,4,127.48,509.92,Loja C,Porto Alegre,RS
+761,2024-08-22,Tênis,Calçados,2,196.84,393.68,Loja C,Caxias do Sul,RS
+762,2025-02-02,Calça,Roupas,1,56.84,56.84,Loja B,Niterói,RJ
+763,2025-06-20,Camiseta,Roupas,4,274.53,1098.12,Loja C,Belo Horizonte,MG
+764,2024-10-30,Jaqueta,Roupas,2,86.51,173.02,Loja A,Niterói,RJ
+765,2025-06-06,Calça,Roupas,2,70.67,141.34,Loja B,Caxias do Sul,RS
+766,2025-04-05,Tênis,Calçados,5,39.36,196.8,Loja A,Belo Horizonte,MG
+767,2025-06-08,Meia,Acessórios,1,89.22,89.22,Loja C,Uberlândia,MG
+768,2025-04-03,Tênis,Calçados,4,133.41,533.64,Loja A,Uberlândia,MG
+769,2024-11-05,Jaqueta,Roupas,1,205.53,205.53,Loja B,Niterói,RJ
+770,2025-01-19,Calça,Roupas,1,129.5,129.5,Loja C,Campinas,SP
+771,2024-12-29,Jaqueta,Roupas,1,131.73,131.73,Loja B,Rio de Janeiro,RJ
+772,2025-02-24,Camiseta,Roupas,3,203.89,611.67,Loja A,Feira de Santana,BA
+773,2024-09-03,Jaqueta,Roupas,1,236.57,236.57,Loja B,Salvador,BA
+774,2025-01-18,Calça,Roupas,4,291.55,1166.2,Loja A,Londrina,PR
+775,2024-08-27,Boné,Acessórios,3,267.44,802.32,Loja B,Uberlândia,MG
+776,2025-05-23,Calça,Roupas,2,145.66,291.32,Loja A,Caxias do Sul,RS
+777,2024-10-06,Camiseta,Roupas,4,252.09,1008.36,Loja A,Santos,SP
+778,2025-07-13,Calça,Roupas,1,145.84,145.84,Loja B,Salvador,BA
+779,2025-07-17,Jaqueta,Roupas,3,285.6,856.8,Loja C,Porto Alegre,RS
+780,2025-05-31,Jaqueta,Roupas,1,66.77,66.77,Loja A,Rio de Janeiro,RJ
+781,2025-06-15,Tênis,Calçados,4,126.22,504.88,Loja B,Belo Horizonte,MG
+782,2024-11-09,Boné,Acessórios,3,226.19,678.57,Loja A,Campinas,SP
+783,2025-05-12,Meia,Acessórios,5,169.38,846.9,Loja C,Salvador,BA
+784,2025-05-15,Calça,Roupas,1,256.37,256.37,Loja C,Belo Horizonte,MG
+785,2025-04-21,Calça,Roupas,4,144.98,579.92,Loja B,Caxias do Sul,RS
+786,2025-02-26,Tênis,Calçados,4,171.17,684.68,Loja C,Niterói,RJ
+787,2025-06-14,Calça,Roupas,4,95.53,382.12,Loja B,Salvador,BA
+788,2025-01-25,Meia,Acessórios,2,54.43,108.86,Loja B,Salvador,BA
+789,2024-08-24,Jaqueta,Roupas,5,282.25,1411.25,Loja B,Belo Horizonte,MG
+790,2025-07-02,Calça,Roupas,5,199.2,996.0,Loja A,Salvador,BA
+791,2024-12-04,Calça,Roupas,3,146.62,439.86,Loja C,Rio de Janeiro,RJ
+792,2025-02-21,Camiseta,Roupas,5,44.8,224.0,Loja B,Rio de Janeiro,RJ
+793,2024-08-08,Boné,Acessórios,1,162.03,162.03,Loja A,Curitiba,PR
+794,2024-08-26,Jaqueta,Roupas,4,61.54,246.16,Loja B,Salvador,BA
+795,2024-11-06,Camiseta,Roupas,5,154.37,771.85,Loja C,Uberlândia,MG
+796,2024-11-24,Camiseta,Roupas,3,21.38,64.14,Loja C,Londrina,PR
+797,2025-02-06,Camiseta,Roupas,2,110.48,220.96,Loja A,Santos,SP
+798,2025-01-04,Meia,Acessórios,5,263.02,1315.1,Loja C,Belo Horizonte,MG
+799,2024-07-28,Tênis,Calçados,3,156.88,470.64,Loja C,Santos,SP
+800,2024-07-23,Jaqueta,Roupas,4,169.03,676.12,Loja B,Porto Alegre,RS
+801,2024-09-28,Camiseta,Roupas,5,60.19,300.95,Loja C,Londrina,PR
+802,2024-10-29,Meia,Acessórios,2,76.52,153.04,Loja B,Uberlândia,MG
+803,2025-02-08,Tênis,Calçados,2,72.74,145.48,Loja B,Londrina,PR
+804,2025-03-31,Jaqueta,Roupas,5,144.25,721.25,Loja C,Campinas,SP
+805,2025-03-22,Boné,Acessórios,5,289.74,1448.7,Loja B,Santos,SP
+806,2024-08-01,Boné,Acessórios,2,205.26,410.52,Loja B,Caxias do Sul,RS
+807,2024-12-02,Boné,Acessórios,2,124.8,249.6,Loja C,Niterói,RJ
+808,2025-03-02,Jaqueta,Roupas,2,88.36,176.72,Loja C,Uberlândia,MG
+809,2025-03-31,Camiseta,Roupas,2,263.29,526.58,Loja C,Curitiba,PR
+810,2024-12-06,Calça,Roupas,1,28.51,28.51,Loja A,Feira de Santana,BA
+811,2024-11-08,Boné,Acessórios,1,213.07,213.07,Loja B,Caxias do Sul,RS
+812,2025-03-18,Boné,Acessórios,1,188.17,188.17,Loja B,Campinas,SP
+813,2024-09-29,Tênis,Calçados,5,206.75,1033.75,Loja A,Curitiba,PR
+814,2024-11-24,Tênis,Calçados,1,49.85,49.85,Loja A,São Paulo,SP
+815,2025-06-15,Jaqueta,Roupas,4,64.6,258.4,Loja C,Uberlândia,MG
+816,2024-09-29,Boné,Acessórios,1,262.6,262.6,Loja B,Londrina,PR
+817,2025-03-20,Calça,Roupas,1,263.81,263.81,Loja C,Uberlândia,MG
+818,2025-05-24,Jaqueta,Roupas,1,45.33,45.33,Loja A,Niterói,RJ
+819,2024-12-03,Meia,Acessórios,1,50.55,50.55,Loja C,Rio de Janeiro,RJ
+820,2025-05-19,Boné,Acessórios,2,133.16,266.32,Loja B,Belo Horizonte,MG
+821,2025-03-28,Tênis,Calçados,4,206.93,827.72,Loja B,Belo Horizonte,MG
+822,2025-06-10,Boné,Acessórios,2,233.44,466.88,Loja C,Campinas,SP
+823,2024-11-24,Jaqueta,Roupas,1,108.81,108.81,Loja C,Caxias do Sul,RS
+824,2025-02-14,Meia,Acessórios,5,248.99,1244.95,Loja A,Londrina,PR
+825,2025-01-26,Calça,Roupas,1,111.95,111.95,Loja C,Londrina,PR
+826,2024-12-03,Boné,Acessórios,1,122.61,122.61,Loja A,Niterói,RJ
+827,2025-05-12,Boné,Acessórios,5,126.52,632.6,Loja A,Salvador,BA
+828,2025-04-30,Boné,Acessórios,5,145.63,728.15,Loja A,Curitiba,PR
+829,2024-11-08,Meia,Acessórios,1,172.79,172.79,Loja A,Belo Horizonte,MG
+830,2024-11-14,Jaqueta,Roupas,3,83.64,250.92,Loja B,Niterói,RJ
+831,2025-05-30,Boné,Acessórios,2,184.38,368.76,Loja C,Salvador,BA
+832,2025-04-19,Meia,Acessórios,2,232.62,465.24,Loja C,Rio de Janeiro,RJ
+833,2024-07-28,Jaqueta,Roupas,1,126.34,126.34,Loja A,Belo Horizonte,MG
+834,2024-11-26,Calça,Roupas,2,286.41,572.82,Loja C,Santos,SP
+835,2024-08-19,Calça,Roupas,2,154.17,308.34,Loja C,Uberlândia,MG
+836,2025-04-29,Jaqueta,Roupas,5,247.85,1239.25,Loja A,Porto Alegre,RS
+837,2025-04-21,Boné,Acessórios,1,126.45,126.45,Loja B,Salvador,BA
+838,2024-08-16,Tênis,Calçados,2,167.45,334.9,Loja A,Porto Alegre,RS
+839,2024-11-29,Camiseta,Roupas,4,153.47,613.88,Loja B,Caxias do Sul,RS
+840,2024-11-12,Camiseta,Roupas,3,234.17,702.51,Loja B,Niterói,RJ
+841,2025-04-11,Tênis,Calçados,2,220.34,440.68,Loja B,Santos,SP
+842,2024-08-01,Meia,Acessórios,3,25.11,75.33,Loja C,Porto Alegre,RS
+843,2025-04-10,Tênis,Calçados,3,22.12,66.36,Loja A,Salvador,BA
+844,2025-02-18,Tênis,Calçados,5,271.45,1357.25,Loja B,Belo Horizonte,MG
+845,2025-03-07,Jaqueta,Roupas,1,203.31,203.31,Loja C,Belo Horizonte,MG
+846,2025-01-05,Tênis,Calçados,3,36.87,110.61,Loja B,Uberlândia,MG
+847,2024-12-06,Calça,Roupas,5,154.17,770.85,Loja A,Belo Horizonte,MG
+848,2025-03-03,Tênis,Calçados,3,48.4,145.2,Loja A,Campinas,SP
+849,2025-07-14,Jaqueta,Roupas,5,192.86,964.3,Loja C,Salvador,BA
+850,2025-07-13,Camiseta,Roupas,5,99.76,498.8,Loja C,São Paulo,SP
+851,2024-10-06,Boné,Acessórios,3,280.29,840.87,Loja A,Santos,SP
+852,2024-12-10,Tênis,Calçados,4,170.97,683.88,Loja C,Caxias do Sul,RS
+853,2025-04-04,Jaqueta,Roupas,2,190.89,381.78,Loja A,Caxias do Sul,RS
+854,2025-05-17,Camiseta,Roupas,2,131.97,263.94,Loja B,Rio de Janeiro,RJ
+855,2025-02-09,Tênis,Calçados,5,135.79,678.95,Loja A,Campinas,SP
+856,2025-01-21,Meia,Acessórios,1,166.29,166.29,Loja A,Curitiba,PR
+857,2024-10-17,Jaqueta,Roupas,4,70.8,283.2,Loja C,Porto Alegre,RS
+858,2024-10-05,Camiseta,Roupas,5,71.68,358.4,Loja C,Niterói,RJ
+859,2025-02-09,Camiseta,Roupas,1,178.85,178.85,Loja C,Niterói,RJ
+860,2024-10-01,Boné,Acessórios,2,276.97,553.94,Loja A,Uberlândia,MG
+861,2025-02-05,Jaqueta,Roupas,4,155.39,621.56,Loja A,Uberlândia,MG
+862,2024-12-09,Camiseta,Roupas,1,124.58,124.58,Loja B,Feira de Santana,BA
+863,2025-03-08,Camiseta,Roupas,5,197.28,986.4,Loja A,Uberlândia,MG
+864,2024-10-07,Camiseta,Roupas,3,20.72,62.16,Loja B,Belo Horizonte,MG
+865,2025-03-26,Meia,Acessórios,5,267.58,1337.9,Loja A,Rio de Janeiro,RJ
+866,2025-06-08,Calça,Roupas,1,242.25,242.25,Loja C,Feira de Santana,BA
+867,2025-03-09,Meia,Acessórios,2,68.94,137.88,Loja C,Feira de Santana,BA
+868,2024-09-09,Jaqueta,Roupas,1,255.16,255.16,Loja B,Salvador,BA
+869,2024-11-03,Calça,Roupas,1,86.32,86.32,Loja A,Santos,SP
+870,2025-05-09,Camiseta,Roupas,5,104.58,522.9,Loja C,Belo Horizonte,MG
+871,2024-10-12,Tênis,Calçados,3,258.33,774.99,Loja C,Niterói,RJ
+872,2025-07-06,Calça,Roupas,2,246.67,493.34,Loja A,Campinas,SP
+873,2025-03-24,Calça,Roupas,3,194.68,584.04,Loja B,Salvador,BA
+874,2024-11-11,Meia,Acessórios,1,138.7,138.7,Loja A,Caxias do Sul,RS
+875,2025-01-01,Meia,Acessórios,5,67.04,335.2,Loja B,Uberlândia,MG
+876,2025-05-22,Jaqueta,Roupas,3,263.39,790.17,Loja A,Santos,SP
+877,2025-05-12,Tênis,Calçados,1,80.69,80.69,Loja A,Salvador,BA
+878,2024-10-15,Boné,Acessórios,1,69.96,69.96,Loja A,Londrina,PR
+879,2024-09-02,Boné,Acessórios,5,199.75,998.75,Loja B,Salvador,BA
+880,2024-11-28,Camiseta,Roupas,4,77.73,310.92,Loja B,São Paulo,SP
+881,2025-02-10,Meia,Acessórios,3,84.95,254.85,Loja C,Caxias do Sul,RS
+882,2024-09-25,Tênis,Calçados,5,186.45,932.25,Loja B,Belo Horizonte,MG
+883,2025-03-23,Tênis,Calçados,1,296.58,296.58,Loja A,Belo Horizonte,MG
+884,2024-12-17,Camiseta,Roupas,3,187.17,561.51,Loja B,Caxias do Sul,RS
+885,2025-05-24,Calça,Roupas,2,133.21,266.42,Loja B,São Paulo,SP
+886,2025-05-27,Calça,Roupas,5,220.93,1104.65,Loja B,Belo Horizonte,MG
+887,2024-10-14,Calça,Roupas,1,24.43,24.43,Loja B,Porto Alegre,RS
+888,2025-07-02,Boné,Acessórios,4,249.24,996.96,Loja C,São Paulo,SP
+889,2024-10-22,Calça,Roupas,4,222.81,891.24,Loja A,Uberlândia,MG
+890,2025-01-13,Boné,Acessórios,2,273.55,547.1,Loja A,Belo Horizonte,MG
+891,2024-08-11,Camiseta,Roupas,5,42.24,211.2,Loja C,Uberlândia,MG
+892,2025-03-22,Jaqueta,Roupas,5,270.37,1351.85,Loja C,Salvador,BA
+893,2024-12-08,Camiseta,Roupas,3,132.33,396.99,Loja C,Salvador,BA
+894,2025-06-10,Tênis,Calçados,1,83.46,83.46,Loja C,Salvador,BA
+895,2025-07-09,Meia,Acessórios,1,192.8,192.8,Loja B,Belo Horizonte,MG
+896,2024-11-22,Meia,Acessórios,5,165.34,826.7,Loja B,Curitiba,PR
+897,2025-04-12,Camiseta,Roupas,2,207.49,414.98,Loja A,Rio de Janeiro,RJ
+898,2024-10-29,Boné,Acessórios,4,85.44,341.76,Loja B,Salvador,BA
+899,2024-12-12,Boné,Acessórios,5,95.92,479.6,Loja A,Santos,SP
+900,2025-01-15,Meia,Acessórios,2,210.44,420.88,Loja B,Niterói,RJ
+901,2024-11-18,Tênis,Calçados,4,110.81,443.24,Loja B,Curitiba,PR
+902,2025-06-01,Camiseta,Roupas,3,73.29,219.87,Loja A,Niterói,RJ
+903,2024-07-19,Boné,Acessórios,2,298.36,596.72,Loja A,Niterói,RJ
+904,2025-02-19,Meia,Acessórios,2,121.62,243.24,Loja A,Rio de Janeiro,RJ
+905,2024-07-21,Meia,Acessórios,3,224.58,673.74,Loja B,Curitiba,PR
+906,2024-09-13,Tênis,Calçados,4,36.84,147.36,Loja A,São Paulo,SP
+907,2024-09-23,Boné,Acessórios,4,44.85,179.4,Loja B,Feira de Santana,BA
+908,2025-01-24,Camiseta,Roupas,5,69.08,345.4,Loja A,Campinas,SP
+909,2025-01-08,Camiseta,Roupas,1,67.73,67.73,Loja A,Londrina,PR
+910,2025-05-27,Calça,Roupas,2,47.07,94.14,Loja B,Feira de Santana,BA
+911,2024-10-13,Calça,Roupas,1,250.11,250.11,Loja A,Curitiba,PR
+912,2024-08-19,Camiseta,Roupas,4,117.32,469.28,Loja C,Campinas,SP
+913,2024-10-29,Jaqueta,Roupas,4,294.75,1179.0,Loja C,Belo Horizonte,MG
+914,2024-11-10,Calça,Roupas,3,279.61,838.83,Loja C,Uberlândia,MG
+915,2024-10-04,Jaqueta,Roupas,5,53.55,267.75,Loja A,Curitiba,PR
+916,2024-08-13,Camiseta,Roupas,3,62.68,188.04,Loja B,Salvador,BA
+917,2025-06-04,Calça,Roupas,5,226.41,1132.05,Loja C,Caxias do Sul,RS
+918,2025-05-11,Camiseta,Roupas,4,88.22,352.88,Loja B,Londrina,PR
+919,2024-08-15,Jaqueta,Roupas,5,46.02,230.1,Loja B,Salvador,BA
+920,2024-09-21,Tênis,Calçados,2,240.61,481.22,Loja C,Curitiba,PR
+921,2024-08-12,Camiseta,Roupas,1,190.38,190.38,Loja A,Uberlândia,MG
+922,2024-11-20,Calça,Roupas,4,238.97,955.88,Loja B,Porto Alegre,RS
+923,2025-06-27,Jaqueta,Roupas,2,37.67,75.34,Loja C,Uberlândia,MG
+924,2024-08-11,Tênis,Calçados,4,104.88,419.52,Loja B,Feira de Santana,BA
+925,2025-01-30,Jaqueta,Roupas,2,115.67,231.34,Loja B,Rio de Janeiro,RJ
+926,2025-06-02,Jaqueta,Roupas,1,44.54,44.54,Loja C,Feira de Santana,BA
+927,2024-08-03,Meia,Acessórios,3,86.94,260.82,Loja A,Londrina,PR
+928,2025-01-07,Camiseta,Roupas,1,105.55,105.55,Loja C,Caxias do Sul,RS
+929,2024-09-02,Camiseta,Roupas,4,98.32,393.28,Loja C,Uberlândia,MG
+930,2025-04-09,Camiseta,Roupas,2,188.17,376.34,Loja C,Salvador,BA
+931,2025-07-01,Meia,Acessórios,3,240.16,720.48,Loja B,Feira de Santana,BA
+932,2024-11-27,Jaqueta,Roupas,4,258.4,1033.6,Loja A,Londrina,PR
+933,2024-12-23,Boné,Acessórios,2,160.32,320.64,Loja C,Belo Horizonte,MG
+934,2025-06-24,Tênis,Calçados,1,52.58,52.58,Loja A,Porto Alegre,RS
+935,2024-10-27,Meia,Acessórios,2,195.83,391.66,Loja B,Rio de Janeiro,RJ
+936,2025-04-28,Boné,Acessórios,2,263.06,526.12,Loja A,São Paulo,SP
+937,2024-10-21,Meia,Acessórios,3,241.21,723.63,Loja A,Santos,SP
+938,2024-09-23,Tênis,Calçados,4,249.25,997.0,Loja B,Uberlândia,MG
+939,2024-11-18,Tênis,Calçados,5,26.41,132.05,Loja A,Niterói,RJ
+940,2024-09-25,Camiseta,Roupas,3,214.59,643.77,Loja A,Santos,SP
+941,2024-10-29,Meia,Acessórios,2,288.05,576.1,Loja C,Niterói,RJ
+942,2024-09-02,Calça,Roupas,2,199.47,398.94,Loja C,Belo Horizonte,MG
+943,2024-08-25,Meia,Acessórios,1,181.05,181.05,Loja B,Porto Alegre,RS
+944,2025-02-17,Calça,Roupas,5,261.36,1306.8,Loja A,Santos,SP
+945,2024-08-07,Camiseta,Roupas,4,189.78,759.12,Loja A,Niterói,RJ
+946,2025-06-16,Tênis,Calçados,1,189.75,189.75,Loja B,Uberlândia,MG
+947,2024-08-18,Meia,Acessórios,5,108.91,544.55,Loja B,Belo Horizonte,MG
+948,2025-03-11,Meia,Acessórios,3,131.63,394.89,Loja B,Feira de Santana,BA
+949,2025-02-04,Meia,Acessórios,1,206.57,206.57,Loja A,Porto Alegre,RS
+950,2025-06-10,Calça,Roupas,2,39.09,78.18,Loja B,Curitiba,PR
+951,2025-05-10,Meia,Acessórios,2,161.71,323.42,Loja A,Campinas,SP
+952,2025-02-12,Boné,Acessórios,4,42.39,169.56,Loja B,Uberlândia,MG
+953,2024-11-03,Camiseta,Roupas,4,290.43,1161.72,Loja A,Caxias do Sul,RS
+954,2025-04-18,Tênis,Calçados,4,107.31,429.24,Loja C,Belo Horizonte,MG
+955,2025-04-23,Tênis,Calçados,4,143.06,572.24,Loja B,Belo Horizonte,MG
+956,2024-11-17,Camiseta,Roupas,4,258.41,1033.64,Loja C,Uberlândia,MG
+957,2024-08-23,Tênis,Calçados,5,24.95,124.75,Loja C,Campinas,SP
+958,2025-01-08,Tênis,Calçados,2,202.06,404.12,Loja C,Caxias do Sul,RS
+959,2025-01-04,Camiseta,Roupas,3,128.21,384.63,Loja B,Santos,SP
+960,2025-01-23,Meia,Acessórios,5,238.61,1193.05,Loja A,Curitiba,PR
+961,2024-07-26,Boné,Acessórios,2,79.29,158.58,Loja A,Feira de Santana,BA
+962,2024-09-18,Camiseta,Roupas,3,231.19,693.57,Loja A,Feira de Santana,BA
+963,2025-06-28,Calça,Roupas,1,140.49,140.49,Loja B,Feira de Santana,BA
+964,2024-11-13,Boné,Acessórios,1,59.83,59.83,Loja A,São Paulo,SP
+965,2025-06-10,Boné,Acessórios,1,239.15,239.15,Loja C,Belo Horizonte,MG
+966,2024-10-16,Meia,Acessórios,3,69.77,209.31,Loja A,Feira de Santana,BA
+967,2024-08-02,Calça,Roupas,4,193.05,772.2,Loja B,Caxias do Sul,RS
+968,2024-08-03,Calça,Roupas,4,299.08,1196.32,Loja C,Niterói,RJ
+969,2024-10-10,Tênis,Calçados,1,85.14,85.14,Loja B,Feira de Santana,BA
+970,2025-05-30,Jaqueta,Roupas,4,105.75,423.0,Loja B,Santos,SP
+971,2024-11-30,Meia,Acessórios,4,203.6,814.4,Loja B,Uberlândia,MG
+972,2024-12-26,Camiseta,Roupas,2,56.6,113.2,Loja A,Niterói,RJ
+973,2025-04-07,Camiseta,Roupas,4,133.34,533.36,Loja B,Feira de Santana,BA
+974,2025-07-18,Tênis,Calçados,5,119.19,595.95,Loja A,Curitiba,PR
+975,2024-11-01,Tênis,Calçados,3,135.96,407.88,Loja B,Santos,SP
+976,2024-08-13,Calça,Roupas,5,128.38,641.9,Loja B,Curitiba,PR
+977,2024-10-15,Jaqueta,Roupas,5,23.09,115.45,Loja C,Feira de Santana,BA
+978,2024-10-13,Meia,Acessórios,2,57.47,114.94,Loja A,Niterói,RJ
+979,2024-08-07,Calça,Roupas,5,25.37,126.85,Loja B,Feira de Santana,BA
+980,2024-10-10,Meia,Acessórios,5,232.88,1164.4,Loja B,Curitiba,PR
+981,2025-07-13,Jaqueta,Roupas,2,73.11,146.22,Loja B,Uberlândia,MG
+982,2024-12-10,Boné,Acessórios,5,80.26,401.3,Loja A,Caxias do Sul,RS
+983,2024-09-09,Tênis,Calçados,5,253.6,1268.0,Loja A,Rio de Janeiro,RJ
+984,2025-03-30,Jaqueta,Roupas,5,293.24,1466.2,Loja C,Niterói,RJ
+985,2024-08-10,Meia,Acessórios,2,38.09,76.18,Loja B,Niterói,RJ
+986,2024-10-18,Tênis,Calçados,4,123.99,495.96,Loja A,Londrina,PR
+987,2025-03-22,Boné,Acessórios,1,173.43,173.43,Loja C,Niterói,RJ
+988,2025-06-09,Calça,Roupas,5,256.42,1282.1,Loja B,Porto Alegre,RS
+989,2024-08-22,Tênis,Calçados,5,156.71,783.55,Loja B,Santos,SP
+990,2024-10-04,Tênis,Calçados,4,262.1,1048.4,Loja C,Rio de Janeiro,RJ
+991,2024-08-30,Calça,Roupas,4,202.48,809.92,Loja B,Campinas,SP
+992,2025-05-15,Camiseta,Roupas,3,125.25,375.75,Loja A,Caxias do Sul,RS
+993,2024-12-02,Calça,Roupas,4,260.68,1042.72,Loja A,Uberlândia,MG
+994,2025-05-28,Camiseta,Roupas,2,239.8,479.6,Loja B,Belo Horizonte,MG
+995,2025-02-07,Meia,Acessórios,5,57.28,286.4,Loja B,Salvador,BA
+996,2025-02-09,Camiseta,Roupas,1,204.43,204.43,Loja A,Belo Horizonte,MG
+997,2024-08-01,Meia,Acessórios,1,212.68,212.68,Loja C,Uberlândia,MG
+998,2025-02-28,Calça,Roupas,4,41.4,165.6,Loja B,Londrina,PR
+999,2024-10-17,Boné,Acessórios,1,255.44,255.44,Loja B,Campinas,SP
+1000,2024-09-28,Tênis,Calçados,2,90.86,181.72,Loja B,Londrina,PR
